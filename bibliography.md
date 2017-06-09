@@ -28,8 +28,7 @@
 - [ ] Computational Baby Learning, *Xiaodan Liang, Si Liu, Yunchao Wei,Luoqi Liu, Liang Lin, Shuicheng Yan* , (2014)
 - [ ] How transferable are features in deep neural networks?, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* , (2014) 
 - [ ] Overcoming catastrophic forgetting in neural networks, *Kirkpatrick, Pascanu, Rabinowitz, 
-	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell, R.
-	*  , (2016)
+	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
  - [ ] Learning without Forgetting, *Zhizhong Li, Derek Hoiem* , (2016)
 
 *********************************************************************
@@ -54,7 +53,7 @@
 *********************************************************************
 - [ ] Very Deep Convolutional Networks for Large-Scale Image Recognition (2015)
 - [ ] Deep Residual Learning for Image Recognition, *Kaiming He,Xiangyu Zhang, Shaoqing Ren, Jian Sun*
-- [ ] Long Short-Term Memory, *Hochreiter, Sepp and Schmidhuber, J\"{u}rgen* (1997)
+- [ ] Long Short-Term Memory, *Hochreiter, Sepp and Schmidhuber, Jurgen* (1997)
 - [x] {SSD:} Single Shot MultiBox Detector, *Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott E. Reed, Cheng{-}Yang Fu, Alexander C. Berg* (2015)
 - [x] :ballot_box_with_check: Neural Turing Machine, *Alex Graves, Greg Wayne, Ivo Danihelka* , (2014) ,  [pdf](https://arxiv.org/pdf/1410.5401.pdf)
 - [x] Neural Programmer-Interpreters, *Scott Reed, Nando de Freitas* , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf)
