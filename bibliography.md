@@ -29,7 +29,8 @@
 - [ ] **How transferable are features in deep neural networks?**, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* , (2014) 
 - [ ] **Overcoming catastrophic forgetting in neural networks**, *Kirkpatrick, Pascanu, Rabinowitz, 
 	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
- - [ ] **Learning without Forgetting**, *Zhizhong Li, Derek Hoiem* , (2016)
+- [ ] **Learning without Forgetting**, *Zhizhong Li, Derek Hoiem* , (2016)
+- [ ] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition**, *Vincenzo Lomonaco & Davide Maltoni* , (2017), (pdf)[https://128.84.21.199/pdf/1705.03550.pdf]
 
 *********************************************************************
 ### Apprendre sur de la video :
