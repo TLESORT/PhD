@@ -51,7 +51,7 @@
 *********************************************************************
 ### Modèles
 *********************************************************************
-- [ ] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, *Karen Simonyan, Andrew Zisserman*, (2015)
+- [ ] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, *Karen Simonyan, Andrew Zisserman*, (2015) [pdf](https://arxiv.org/pdf/1409.1556.pdf)
 - [ ] **Deep Residual Learning for Image Recognition**, *Kaiming He,Xiangyu Zhang, Shaoqing Ren, Jian Sun*
 - [ ] **Long Short-Term Memory**, *Hochreiter, Sepp and Schmidhuber, Jurgen* (1997)
 - [x] **SSD: Single Shot MultiBox Detector**, *Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott E. Reed, Cheng{-}Yang Fu, Alexander C. Berg* (2015)
