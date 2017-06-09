@@ -30,7 +30,12 @@
 - [ ] **Overcoming catastrophic forgetting in neural networks**, *Kirkpatrick, Pascanu, Rabinowitz, 
 	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
 - [ ] **Learning without Forgetting**, *Zhizhong Li, Derek Hoiem* , (2016)
-- [ ] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition**, *Vincenzo Lomonaco & Davide Maltoni* , (2017), (pdf)[https://128.84.21.199/pdf/1705.03550.pdf]
+- [ ] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition**, *Vincenzo Lomonaco & Davide Maltoni* , (2017), [pdf](https://128.84.21.199/pdf/1705.03550.pdf)
+- [ ] **Active Long Term Memory Networks**, *Tommaso Furlanello, Jiaping Zhao, Andrew M. Saxe, Laurent Itti, and Bosco S. Tjan* , (2016)
+- [ ] **Adaptive Convolutional Neural Network and Its Application in Face Recognition**, *Yuanyuan Zhang, Dong Zhao, Jiande Sun, Guofeng Zou, and Wentao L.* , (2016)
+- [ ] **Incremental Robot Learning of New Objects with Fixed Update Time**, *Raffaello Camoriano, Giulia Pasquale, Carlo Ciliberto, Lorenzo Natale, Lorenzo Rosasco, and Giorgio Metta*, (2016)
+- [ ] **Encoder Based Lifelong Learning**, *Amal Rannen Triki, Rahaf Aljundi, Mathew B. Blaschko, and Tinne Tuytelaars.* , (2017)
+
 
 *********************************************************************
 ### Apprendre sur de la video :
