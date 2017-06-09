@@ -34,7 +34,7 @@
 *********************************************************************
 ### Apprendre sur de la video :
 *********************************************************************
-- [ ] **Learning to Annotate Dynamique Video Scene**, *Piotr bojanowski* (2016)
+- [ ] **Learning to Annotate Dynamique Video Scene**, *Piotr bojanowski* (2016), [pdf](https://hal.inria.fr/tel-01364560/document)
 - [ ] **Video Annotation and Tracking with Active Learning**, *Carl Vondrick, Deva Ramanan* , ()
 - [ ] **Video2Text: Learning to Annotate Video Content**, *Hrishikesh Aradhye, George Toderici, Jay Yagnik*, ()
 
