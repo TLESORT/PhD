@@ -86,3 +86,6 @@ Theorie de l'information
 *********************************************************************
 
 - youtubebb
+- iCubWorld
+- BigBrother (not public)
+- CORe50
