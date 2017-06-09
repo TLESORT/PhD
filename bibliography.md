@@ -5,7 +5,7 @@
 - [x] :ballot_box_with_check: lu et résumé <br>
  :fire: article cool
 
-## Thematiques Directement liées au sujet
+## 1. Thematiques Directement liées au sujet
 
 *********************************************************************
 ### Methodes non/faiblement supervisées :
@@ -39,7 +39,7 @@
 - [ ] **Video2Text: Learning to Annotate Video Content**, *Hrishikesh Aradhye, George Toderici, Jay Yagnik*, ()
 
 
-## Thematiques sous-jacentes
+## 2. Thematiques sous-jacentes
 
 *********************************************************************
 ### Methodes d'apprentissage et d'optimisation
@@ -68,14 +68,14 @@
 ### Autres
 *********************************************************************
 
-## Livres
+## 3. Livres
 Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* <br>
 Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning , *Daphne Koller,	Nir Friedman* <br>
 Theorie de l'information
 
 
 *********************************************************************
-### Dataset d'experimentation
+### 4. Dataset d'experimentation
 *********************************************************************
 
 - youtubebb
