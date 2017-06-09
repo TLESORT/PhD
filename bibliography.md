@@ -36,7 +36,6 @@
 - [ ] **Incremental Robot Learning of New Objects with Fixed Update Time**, *Raffaello Camoriano, Giulia Pasquale, Carlo Ciliberto, Lorenzo Natale, Lorenzo Rosasco, and Giorgio Metta*, (2016)
 - [ ] **Encoder Based Lifelong Learning**, *Amal Rannen Triki, Rahaf Aljundi, Mathew B. Blaschko, and Tinne Tuytelaars.* , (2017)
 
-
 *********************************************************************
 ### Apprendre sur de la video :
 *********************************************************************
@@ -54,6 +53,7 @@
 - [ ] **Adam: A Method for Stochastic Optimization**, *Diederik P. Kingma and Jimmy Ba* (2014)
 - [ ] **On the importance of initialization and momentum in deep learning**, *Ilya Sutskever, James Martens, George E. Dahl, Geoffrey E. Hinton* (2013)
 - [ ] **Learning multiple layers of features from tiny images**, *Krizhevsky, Alex and Hinton, Geoffrey* (2009)
+- [ ] **Learning  to Reinforcement Learn**, *Wang, Jane X and Kurth-Nelson, Zeb and Tirumala, Dhruva and Soyer, Hubert and Leibo, Joel Z and Munos, Remi and Blundell, Charles and Kumaran, Dharshan and Botvinick, Matt*, (2016), [pdf](https://arxiv.org/pdf/1611.05763.pdf)
 
 *********************************************************************
 ### Modèles
