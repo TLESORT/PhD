@@ -26,7 +26,7 @@
 - [ ] **Progressive Neural Networks, *Andrei A. Rusu, Neil C. Rabinowitz and Guillaume Desjardins and Hubert Soyer and James Kirkpatrick**, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell*, (2016)
 - [ ] **RL-IAC: An Exploration Policy for Online Saliency Learning on an Autonomous Mobile Robot**, Craye, Céline and Filliat, David and Goudou, Jean-Francois ,(2016)
 - [ ] **Computational Baby Learning** , *Xiaodan Liang, Si Liu, Yunchao Wei,Luoqi Liu, Liang Lin, Shuicheng Yan* , (2014)
-- [ ] **How transferable are features in deep neural networks?**, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* , (2014) 
+- [ ] **How transferable are features in deep neural networks?**, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson*https://arxiv.org/pdf/1706.02515.pdf , (2014) 
 - [ ] **Overcoming catastrophic forgetting in neural networks**, *Kirkpatrick, Pascanu, Rabinowitz, 
 	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
 - [ ] **Learning without Forgetting**, *Zhizhong Li, Derek Hoiem* , (2016)
@@ -35,6 +35,7 @@
 - [ ] **Adaptive Convolutional Neural Network and Its Application in Face Recognition**, *Yuanyuan Zhang, Dong Zhao, Jiande Sun, Guofeng Zou, and Wentao L.* , (2016)
 - [ ] **Incremental Robot Learning of New Objects with Fixed Update Time**, *Raffaello Camoriano, Giulia Pasquale, Carlo Ciliberto, Lorenzo Natale, Lorenzo Rosasco, and Giorgio Metta*, (2016)
 - [ ] **Encoder Based Lifelong Learning**, *Amal Rannen Triki, Rahaf Aljundi, Mathew B. Blaschko, and Tinne Tuytelaars.* , (2017)
+- [ ] **Optimization as a Model for Few-Shot Learning**, *Sachin Ravi, Hugo Larochelle*, (2017), [pdf](https://openreview.net/pdf?id=rJY0-Kcll)
 
 *********************************************************************
 ### Apprendre sur de la video :
@@ -54,6 +55,9 @@
 - [ ] **On the importance of initialization and momentum in deep learning**, *Ilya Sutskever, James Martens, George E. Dahl, Geoffrey E. Hinton* (2013)
 - [ ] **Learning multiple layers of features from tiny images**, *Krizhevsky, Alex and Hinton, Geoffrey* (2009)
 - [ ] **Learning  to Reinforcement Learn**, *Wang, Jane X and Kurth-Nelson, Zeb and Tirumala, Dhruva and Soyer, Hubert and Leibo, Joel Z and Munos, Remi and Blundell, Charles and Kumaran, Dharshan and Botvinick, Matt*, (2016), [pdf](https://arxiv.org/pdf/1611.05763.pdf)
+- [ ] **Self-Normalizing Neural Networks**, *Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*, (2017), [pdf](https://arxiv.org/pdf/1706.02515.pdf), [arXiv](https://arxiv.org/abs/1706.02515) 
+- [ ] **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**, * * , (2017) , [pdf](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
+- [ ] **Meta-Learning with Memory-Augmented Neural Networks**, *Adam Santoro,Matthew Botvinick, Daan Wierstra,Timothy Lillicrap*, (2016) , [pdf](http://proceedings.mlr.press/v48/santoro16.pdf)
 
 *********************************************************************
 ### Modèles
@@ -70,10 +74,12 @@
 *********************************************************************
 - [ ] **Understanding the difficuly of training deep feedforward neural networks**, *Xavier Glorot, Yoshua Bengio* (2010)
 - [x] :fire: **Deep Learning in Neural Networks: An Overview**, *Jurgen Schmidhuber* , (2014) [pdf](https://arxiv.org/pdf/1404.7828.pdf)
+- [ ] **Deep Reinforcement Learning : An Overview**, * Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
 
 *********************************************************************
 ### Autres
 *********************************************************************
+- [ ] **On the Robustness of Deep Convolutional Neural Networks for Music Classification**, *Keunwoo Choi, George Fazekas, Kyunghyun Cho, Mark Sandler*, (2017) , [pdf](https://arxiv.org/pdf/1706.02361.pdf), [arXiv](https://arxiv.org/abs/1706.02361),
 
 ## 3. Livres
 Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* <br>
