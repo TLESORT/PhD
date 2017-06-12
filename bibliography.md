@@ -84,7 +84,7 @@
 ## 3. Livres
 Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* <br>
 Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning , *Daphne Koller,	Nir Friedman* <br>
-Theorie de l'information
+Tutorial: Information Theory and Statistics, Bin Yu
 
 
 *********************************************************************
