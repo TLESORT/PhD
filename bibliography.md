@@ -26,7 +26,7 @@
 - [ ] **Progressive Neural Networks, *Andrei A. Rusu, Neil C. Rabinowitz and Guillaume Desjardins and Hubert Soyer and James Kirkpatrick**, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell*, (2016)
 - [ ] **RL-IAC: An Exploration Policy for Online Saliency Learning on an Autonomous Mobile Robot**, Craye, Céline and Filliat, David and Goudou, Jean-Francois ,(2016)
 - [ ] **Computational Baby Learning** , *Xiaodan Liang, Si Liu, Yunchao Wei,Luoqi Liu, Liang Lin, Shuicheng Yan* , (2014)
-- [ ] **How transferable are features in deep neural networks?**, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson*https://arxiv.org/pdf/1706.02515.pdf , (2014) 
+- [ ] **How transferable are features in deep neural networks?**, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* [pdf](https://arxiv.org/pdf/1706.02515.pdf) , (2014) 
 - [ ] **Overcoming catastrophic forgetting in neural networks**, *Kirkpatrick, Pascanu, Rabinowitz, 
 	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
 - [ ] **Learning without Forgetting**, *Zhizhong Li, Derek Hoiem* , (2016)
