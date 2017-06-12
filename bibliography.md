@@ -18,7 +18,7 @@
 
 
 *********************************************************************
-### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel :
+### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
 *********************************************************************
 - [ ] **Curriculum Learning**, *Yoshua Bengio, Jerome Louradour, Ronan Collobert and Jason Weston*, (2009)
 - [ ] **Incremental and Decremental Support Vector Machine Learning**, *Gert Cauwenberghs, Tomaso Poggio*, (2001)
