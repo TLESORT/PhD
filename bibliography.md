@@ -30,7 +30,7 @@
 - [ ] **Overcoming catastrophic forgetting in neural networks**, *Kirkpatrick, Pascanu, Rabinowitz, 
 	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
 - [ ] **Learning without Forgetting**, *Zhizhong Li, Derek Hoiem* , (2016)
-- [ ] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition**, *Vincenzo Lomonaco & Davide Maltoni* , (2017), [pdf](https://128.84.21.199/pdf/1705.03550.pdf)
+- [x] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition**, *Vincenzo Lomonaco & Davide Maltoni* , (2017), [pdf](https://128.84.21.199/pdf/1705.03550.pdf)
 - [ ] **Active Long Term Memory Networks**, *Tommaso Furlanello, Jiaping Zhao, Andrew M. Saxe, Laurent Itti, and Bosco S. Tjan* , (2016)
 - [ ] **Adaptive Convolutional Neural Network and Its Application in Face Recognition**, *Yuanyuan Zhang, Dong Zhao, Jiande Sun, Guofeng Zou, and Wentao L.* , (2016)
 - [ ] **Incremental Robot Learning of New Objects with Fixed Update Time**, *Raffaello Camoriano, Giulia Pasquale, Carlo Ciliberto, Lorenzo Natale, Lorenzo Rosasco, and Giorgio Metta*, (2016)
@@ -56,7 +56,7 @@
 - [ ] **Learning multiple layers of features from tiny images**, *Krizhevsky, Alex and Hinton, Geoffrey* (2009)
 - [x] **Learning  to Reinforcement Learn**, *Wang, Jane X and Kurth-Nelson, Zeb and Tirumala, Dhruva and Soyer, Hubert and Leibo, Joel Z and Munos, Remi and Blundell, Charles and Kumaran, Dharshan and Botvinick, Matt*, (2016), [pdf](https://arxiv.org/pdf/1611.05763.pdf)
 - [ ] **Self-Normalizing Neural Networks**, *Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*, (2017), [pdf](https://arxiv.org/pdf/1706.02515.pdf), [arXiv](https://arxiv.org/abs/1706.02515) 
-- [x] **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**, *Priya Goyal Piotr Dollar Ross Girshick Pieter Noordhuis Lukasz Wesolowski Aapo Kyrola Andrew Tulloch Yangqing Jia, Kaiming He* , (2017) , [pdf](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
+- [x] :ballot_box_with_check: **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**, *Priya Goyal Piotr Dollar Ross Girshick Pieter Noordhuis Lukasz Wesolowski Aapo Kyrola Andrew Tulloch Yangqing Jia, Kaiming He* , (2017) , [pdf](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - [ ] **Meta-Learning with Memory-Augmented Neural Networks**, *Adam Santoro,Matthew Botvinick, Daan Wierstra,Timothy Lillicrap*, (2016) , [pdf](http://proceedings.mlr.press/v48/santoro16.pdf)
 
 *********************************************************************
