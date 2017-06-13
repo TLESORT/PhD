@@ -54,7 +54,7 @@
 - [ ] **Adam: A Method for Stochastic Optimization**, *Diederik P. Kingma and Jimmy Ba* (2014)
 - [ ] **On the importance of initialization and momentum in deep learning**, *Ilya Sutskever, James Martens, George E. Dahl, Geoffrey E. Hinton* (2013)
 - [ ] **Learning multiple layers of features from tiny images**, *Krizhevsky, Alex and Hinton, Geoffrey* (2009)
-- [x] **Learning  to Reinforcement Learn**, *Wang, Jane X and Kurth-Nelson, Zeb and Tirumala, Dhruva and Soyer, Hubert and Leibo, Joel Z and Munos, Remi and Blundell, Charles and Kumaran, Dharshan and Botvinick, Matt*, (2016), [pdf](https://arxiv.org/pdf/1611.05763.pdf)
+- [x] :pencil2: **Learning  to Reinforcement Learn**, *Wang, Jane X and Kurth-Nelson, Zeb and Tirumala, Dhruva and Soyer, Hubert and Leibo, Joel Z and Munos, Remi and Blundell, Charles and Kumaran, Dharshan and Botvinick, Matt*, (2016), [pdf](https://arxiv.org/pdf/1611.05763.pdf)
 - [ ] **Self-Normalizing Neural Networks**, *Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*, (2017), [pdf](https://arxiv.org/pdf/1706.02515.pdf), [arXiv](https://arxiv.org/abs/1706.02515) 
 - [x] :ballot_box_with_check: **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour**, *Priya Goyal Piotr Dollar Ross Girshick Pieter Noordhuis Lukasz Wesolowski Aapo Kyrola Andrew Tulloch Yangqing Jia, Kaiming He* , (2017) , [pdf](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - [ ] **Meta-Learning with Memory-Augmented Neural Networks**, *Adam Santoro,Matthew Botvinick, Daan Wierstra,Timothy Lillicrap*, (2016) , [pdf](http://proceedings.mlr.press/v48/santoro16.pdf)
@@ -67,7 +67,7 @@
 - [ ] **Long Short-Term Memory**, *Hochreiter, Sepp and Schmidhuber, Jurgen* (1997)
 - [x] **SSD: Single Shot MultiBox Detector**, *Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott E. Reed, Cheng{-}Yang Fu, Alexander C. Berg* (2015)
 - [x] :ballot_box_with_check: **Neural Turing Machine**, *Alex Graves, Greg Wayne, Ivo Danihelka* , (2014) ,  [pdf](https://arxiv.org/pdf/1410.5401.pdf)
-- [x] **Neural Programmer-Interpreters**, *Scott Reed, Nando de Freitas* , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf)
+- [x] :pencil2: **Neural Programmer-Interpreters**, *Scott Reed, Nando de Freitas* , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf)
 
 *********************************************************************
 ### Overview
