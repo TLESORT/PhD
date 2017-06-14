@@ -75,7 +75,7 @@
 *********************************************************************
 - [ ] **Understanding the difficuly of training deep feedforward neural networks**, *Xavier Glorot, Yoshua Bengio* (2010)
 - [x] :fire: **Deep Learning in Neural Networks: An Overview**, *Jurgen Schmidhuber* , (2014) [pdf](https://arxiv.org/pdf/1404.7828.pdf)
-- [ ] :page_facing_up: **Deep Reinforcement Learning : An Overview**, * Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
+- [x] :fire: **Deep Reinforcement Learning : An Overview**, *Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
 - [ ] **A Tutorial on Energy-Based Learning**, *Yann Lecun*, (2016), [pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 
 *********************************************************************
@@ -95,7 +95,7 @@
 ### 4. Dataset d'experimentation
 *********************************************************************
 
-- youtubebb
+- :page_facing_up: youtube-8M [Page](https://research.google.com/youtube8m/)
 - iCubWorld
 - BigBrother (not public)
 - CORe50
