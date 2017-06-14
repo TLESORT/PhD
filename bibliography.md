@@ -23,7 +23,7 @@
 - [ ] **Curriculum Learning**, *Yoshua Bengio, Jerome Louradour, Ronan Collobert and Jason Weston*, (2009)
 - [ ] **Incremental and Decremental Support Vector Machine Learning**, *Gert Cauwenberghs, Tomaso Poggio*, (2001)
 - [ ] **Online Incremental Feature Learning with Denoising Autoencoders**, *Guanyu Zhou and Kihyuk Sohn and Honglak Lee*
-- [ ] **Progressive Neural Networks, *Andrei A. Rusu, Neil C. Rabinowitz and Guillaume Desjardins and Hubert Soyer and James Kirkpatrick**, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell*, (2016)
+- [ ] **Progressive Neural Networks**, *Andrei A. Rusu, Neil C. Rabinowitz and Guillaume Desjardins and Hubert Soyer and James Kirkpatrick*, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell*, (2016)
 - [ ] **RL-IAC: An Exploration Policy for Online Saliency Learning on an Autonomous Mobile Robot**, Craye, Céline and Filliat, David and Goudou, Jean-Francois ,(2016)
 - [ ] **Computational Baby Learning** , *Xiaodan Liang, Si Liu, Yunchao Wei,Luoqi Liu, Liang Lin, Shuicheng Yan* , (2014)
 - [ ] **How transferable are features in deep neural networks?**, *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* [pdf](https://arxiv.org/pdf/1706.02515.pdf) , (2014) 
@@ -75,7 +75,7 @@
 *********************************************************************
 - [ ] **Understanding the difficuly of training deep feedforward neural networks**, *Xavier Glorot, Yoshua Bengio* (2010)
 - [x] :fire: **Deep Learning in Neural Networks: An Overview**, *Jurgen Schmidhuber* , (2014) [pdf](https://arxiv.org/pdf/1404.7828.pdf)
-- [ ] **Deep Reinforcement Learning : An Overview**, * Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
+- [ ] :page_facing_up: **Deep Reinforcement Learning : An Overview**, * Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
 - [ ] **A Tutorial on Energy-Based Learning**, *Yann Lecun*, (2016), [pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 
 *********************************************************************
@@ -84,10 +84,10 @@
 - [ ] **On the Robustness of Deep Convolutional Neural Networks for Music Classification**, *Keunwoo Choi, George Fazekas, Kyunghyun Cho, Mark Sandler*, (2017) , [pdf](https://arxiv.org/pdf/1706.02361.pdf), [arXiv](https://arxiv.org/abs/1706.02361),
 - [ ] **Deep Learning: A Bayesian Perspective**, ** , (2017), [pdf](https://arxiv.org/pdf/1706.00473.pdf),[arXiv](https://arxiv.org/abs/1706.00473), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170600473P&data_type=BIBTEX&db_key=PRE&nocookieset=1)
 
-## 3. Livres
-Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* <br>
-Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning , *Daphne Koller,	Nir Friedman* <br>
-Tutorial: Information Theory and Statistics, *Bin Yu*
+## 3. :books: Livres
+:closed_book: Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* <br>
+:green_book: Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning , *Daphne Koller,	Nir Friedman* <br>
+:blue_book: Tutorial: Information Theory and Statistics, *Bin Yu*
 
 
 *********************************************************************
