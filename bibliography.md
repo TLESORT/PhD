@@ -77,6 +77,7 @@
 - [x] :fire: **Deep Learning in Neural Networks: An Overview**, *Jurgen Schmidhuber* , (2014) [pdf](https://arxiv.org/pdf/1404.7828.pdf)
 - [x] :fire: **Deep Reinforcement Learning : An Overview**, *Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
 - [ ] **A Tutorial on Energy-Based Learning**, *Yann Lecun*, (2016), [pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
+- [ ] **Unsupervised Learning**, *Zoubin Ghahramani* , (2004), [pdf](http://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf)
 
 *********************************************************************
 ### Autres
