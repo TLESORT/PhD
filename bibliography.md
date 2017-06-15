@@ -87,10 +87,13 @@
 - [ ] **Deep Learning: A Bayesian Perspective**, *N Polson* , (2017), [pdf](https://arxiv.org/pdf/1706.00473.pdf),[arXiv](https://arxiv.org/abs/1706.00473), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170600473P&data_type=BIBTEX&db_key=PRE&nocookieset=1)
 - [ ] **A connection between GANs, inverse reinforcement learning, and energy-based models**, *Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine* , (2016), [pdf](https://arxiv.org/pdf/1611.03852), [arXiv](https://arxiv.org/abs/1611.03852), [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/FinnCAL16)
 
+*********************************************************************
 ## 3. :books: Livres
+*********************************************************************
 :closed_book: Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* <br>
 :green_book: Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning , *Daphne Koller,	Nir Friedman* <br>
 :blue_book: Tutorial: Information Theory and Statistics, *Bin Yu*
+:orange_book: Information Theory, Inference, and Learning Algorithms, *David J. C. MacKay* [pdf](http://www.inference.org.uk/itprnn/book.pdf)
 
 
 *********************************************************************
@@ -98,6 +101,19 @@
 *********************************************************************
 
 - youtube-8M [Page](https://research.google.com/youtube8m/)
-- iCubWorld
+- iCubWorld [Page](https://robotology.github.io/iCubWorld/)
 - BigBrother (not public)
-- CORe50
+- CORe50 [Page](https://vlomonaco.github.io/core50/)
+- More DataSet [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+
+*********************************************************************
+### 5. More Ressources
+*********************************************************************
+
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- [open-source-machine-learning-degree](https://github.com/Nixonite/open-source-machine-learning-degree)
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [foundations_for_deep_learning](https://github.com/pauli-space/foundations_for_deep_learning)
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
