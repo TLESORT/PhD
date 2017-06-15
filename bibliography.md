@@ -100,7 +100,7 @@
 ### 4. Dataset d'experimentation
 *********************************************************************
 
-- youtube-8M [Page](https://research.google.com/youtube8m/)
+- youtube-8M [Page](https://research.google.com/youtube8m/), **Paper** [pdf](https://arxiv.org/pdf/1609.08675), [arXiv](https://arxiv.org/abs/1609.08675), [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/Abu-El-HaijaKLN16)
 - iCubWorld [Page](https://robotology.github.io/iCubWorld/)
 - BigBrother (not public)
 - CORe50 [Page](https://vlomonaco.github.io/core50/)
