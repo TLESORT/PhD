@@ -78,6 +78,7 @@
 - [x] :fire: **Deep Reinforcement Learning : An Overview**, *Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
 - [ ] **A Tutorial on Energy-Based Learning**, *Yann Lecun*, (2016), [pdf](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 - [ ] **Unsupervised Learning**, *Zoubin Ghahramani* , (2004), [pdf](http://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf)
+- [ ] **Representation Learning: A Review and New Perspectives** , *Yoshua Bengio, Aaron Courville, and Pascal Vincent* , (2012) , [pdf](http://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf)
 
 *********************************************************************
 ### Autres
