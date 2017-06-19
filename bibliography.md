@@ -15,7 +15,7 @@
 - [ ] **A Poodle or a Dog? Evaluating Automatic Image Annotation Using Human Descriptions at Different Levels of Granularity**, *Josiah K Wang and Fei Yan and Ahmet Aker and Robert Gaizauskas*, (2014)
 - [ ] **Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning with Humans in the Loop**, *Yin Cui, Feng Zhou, Yuanqing Lin, Serge J. Belongie* (2015)
 - [ ] **Active deep learning method for semi-supervised sentiment classification**, *Shusen Zhou and Qingcai Chen and Xiaolong Wang* ,(2013)
-
+- [ ] **What is the Best Multi-Stage Architecture for Object Recognition?**, *Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato and Yann LeCun* , (2009), [pdf](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)
 
 *********************************************************************
 ### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
