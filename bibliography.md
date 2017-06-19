@@ -86,6 +86,7 @@
 - [ ] **On the Robustness of Deep Convolutional Neural Networks for Music Classification**, *Keunwoo Choi, George Fazekas, Kyunghyun Cho, Mark Sandler*, (2017) , [pdf](https://arxiv.org/pdf/1706.02361.pdf), [arXiv](https://arxiv.org/abs/1706.02361),
 - [ ] **Deep Learning: A Bayesian Perspective**, *N Polson* , (2017), [pdf](https://arxiv.org/pdf/1706.00473.pdf),[arXiv](https://arxiv.org/abs/1706.00473), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170600473P&data_type=BIBTEX&db_key=PRE&nocookieset=1)
 - [ ] **A connection between GANs, inverse reinforcement learning, and energy-based models**, *Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine* , (2016), [pdf](https://arxiv.org/pdf/1611.03852), [arXiv](https://arxiv.org/abs/1611.03852), [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/FinnCAL16)
+- [ ] **Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex**, *Qianli Liao, Tomaso Poggio*, (2016), [pdf](https://arxiv.org/pdf/1604.03640), [arXiv](https://arxiv.org/abs/1604.03640) 
 
 *********************************************************************
 ## 3. :books: Livres
