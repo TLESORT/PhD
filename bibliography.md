@@ -111,6 +111,13 @@
 - More DataSet [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 *********************************************************************
+### Cheap Sheet
+*********************************************************************
+
+#### Math
+**The Matrix Cookbook**, *Kaare Brandt Petersen Michael Syskind Pedersen* , [pdf](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+
+*********************************************************************
 ### 5. More Ressources
 *********************************************************************
 
