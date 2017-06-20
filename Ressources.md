@@ -37,7 +37,7 @@
 :closed_book: Deep Learning, *Aaron Courtville, Ian Goodfellow, Yoshua Bengio* [Github](https://github.com/HFTrader/DeepLearningBook) <br>
 :green_book: Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning , *Daphne Koller,	Nir Friedman* <br>
 :blue_book: Tutorial: Information Theory and Statistics, *Bin Yu* <br>
-:orange_book: Information Theory, Inference, and Learning Algorithms, *David J. C. MacKay* [pdf](http://www.inference.org.uk/itprnn/book.pdf)
+:orange_book: Information Theory, Inference, and Learning Algorithms, *David J. C. MacKay* [pdf](http://www.inference.org.uk/itprnn/book.pdf) <br>
  :notebook_with_decorative_cover: Probability Theory: The logic of Science *E.T. Jaynes* [pdf](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
  
  *********************************************************************
