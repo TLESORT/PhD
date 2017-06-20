@@ -23,11 +23,16 @@
 ### 4. Dataset d'experimentation
 *********************************************************************
 
+
+### Video
 - youtube-8M [Page](https://research.google.com/youtube8m/), **Paper** [pdf](https://arxiv.org/pdf/1609.08675), [arXiv](https://arxiv.org/abs/1609.08675), [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/Abu-El-HaijaKLN16)
+- Sports-1M [Page](http://cs.stanford.edu/people/karpathy/deepvideo/)
+- VIRAT **A large-scale benchmark dataset for event recognition in surveillance video**, [page](http://www.viratdata.org/)
+
+
 - iCubWorld [Page](https://robotology.github.io/iCubWorld/)
 - BigBrother (not public)
 - CORe50 [Page](https://vlomonaco.github.io/core50/)
-- Sports-1M [Page](http://cs.stanford.edu/people/karpathy/deepvideo/)
 - ActivityNet [Page](http://activity-net.org/)
 - More DataSet [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 
