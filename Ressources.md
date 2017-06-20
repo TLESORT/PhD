@@ -17,7 +17,8 @@
 
 - Mardown Cheatsheet : [page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - LaTeX Math Symbols : [page](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
-
+- emoji              : [page](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+ 
 *********************************************************************
 ### 4. Dataset d'experimentation
 *********************************************************************
