@@ -46,7 +46,7 @@
 - [ ] **Video Annotation and Tracking with Active Learning**, *Carl Vondrick, Deva Ramanan* , ()
 - [ ] **Video2Text: Learning to Annotate Video Content**, *Hrishikesh Aradhye, George Toderici, Jay Yagnik*, ()
 - [ ] **Efficiently Scaling Up Crowdsourced Video Annotation : A Set of Best Practices for High Quality, Economical Video Labeling**, Carl Vondrick, Donald Patterson, Deva Ramanan , () [pdf](http://carlvondrick.com/vatic/ijcv.pdf)
-
+- [x] :ballot_box_with_check: **Object Detection and Counting with Low Quality Video**
 
 ## 2. Thematiques sous-jacentes
 
