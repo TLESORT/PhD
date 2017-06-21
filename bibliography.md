@@ -17,6 +17,7 @@
 - [ ] **Active deep learning method for semi-supervised sentiment classification**, *Shusen Zhou and Qingcai Chen and Xiaolong Wang* ,(2013)
 - [ ] **What is the Best Multi-Stage Architecture for Object Recognition?**, *Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato and Yann LeCun* , (2009), [pdf](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)
 - [ ] **Deep learning with COTS HPC systems**, *Adam Coates Brody Huval Tao Wang David J. Wu Andrew Y. Ng*, (2013), [pdf](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf)
+- [ ] **Generalized Belief Propagation** , *Jonathan S. Yedidia, William T. Freeman, Yair Weiss* , (2011) [pdf](https://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf)
 
 *********************************************************************
 ### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
