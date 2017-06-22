@@ -18,7 +18,7 @@
 - [ ] **What is the Best Multi-Stage Architecture for Object Recognition?**, *Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato and Yann LeCun* , (2009), [pdf](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)
 - [ ] **Deep learning with COTS HPC systems**, *Adam Coates Brody Huval Tao Wang David J. Wu Andrew Y. Ng*, (2013), [pdf](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf)
 - [ ] **Generalized Belief Propagation** , *Jonathan S. Yedidia, William T. Freeman, Yair Weiss* , (2011) [pdf](https://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf)
-- [x] **The Curious Robot: Learning Visual Representations via Physical Interactions**,*Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf)
+- [x] **The Curious Robot: Learning Visual Representations via Physical Interactions**,*Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf) [slides](https://pdfs.semanticscholar.org/a6ee/1a3d623daa2714f70232d4fa61cbd1b3cff3.pdf)
 - [x] **Autonomous reinforcement learning on raw visual input data in a real woLange, Sascha, et alrld application**, *Lange, Sascha, et al* , (2012)
 - [x] **Embed to control: A locally linear latent dynamics model for control from raw images**, *Watter, Manuel, et al*, (2015)
 - [x] **Deep Spatial Autoencoders for Visuomotor Learning.**, *Finn, Chelsea, et al.*, (2016)
