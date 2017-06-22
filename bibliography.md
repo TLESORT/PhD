@@ -53,6 +53,7 @@
 - [ ] **Video2Text: Learning to Annotate Video Content**, *Hrishikesh Aradhye, George Toderici, Jay Yagnik*, ()
 - [ ] **Efficiently Scaling Up Crowdsourced Video Annotation : A Set of Best Practices for High Quality, Economical Video Labeling**, Carl Vondrick, Donald Patterson, Deva Ramanan , () [pdf](http://carlvondrick.com/vatic/ijcv.pdf)
 - [x] :ballot_box_with_check: **Object Detection and Counting with Low Quality Video**, *Hao Jiang, Shiquan Wang*
+- [ ] **The "something something" video database for learning and evaluating visual common sense**, *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzyńska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic*, (2017), [arXiv](https://arxiv.org/abs/1706.04261), [pdf](https://arxiv.org/pdf/1706.04261)
 
 ## 2. Thematiques sous-jacentes
 
