@@ -23,6 +23,10 @@
 - [x] **Embed to control: A locally linear latent dynamics model for control from raw images**, *Watter, Manuel, et al*, (2015)
 - [x] **Deep Spatial Autoencoders for Visuomotor Learning.**, *Finn, Chelsea, et al.*, (2016)
 - [x] **Stable reinforcement learning with autoencoders for tactile and visual data.**, *van Hoof, Herke, et al*, (2016) 
+- [ ] **Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data** , *Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt*, (2017),  [pdf](https://openreview.net/pdf?id=HyTqHL5xg)
+- [ ] **Deep Kalman Filters**, *Rahul G. Krishnan, Uri Shalit, David Sontag*, (2015), [pdf](https://arxiv.org/abs/1511.05121)
+- [ ] **PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations**, *Rico Jonschkowski, Roland Hafner, Jonathan Scholz, Martin Riedmiller*, (2017), [pdf](https://arxiv.org/pdf/1705.09805), [arXiv](https://arxiv.org/abs/1705.09805)
+- [x] **Learning State Representations with Robotic Priors**, *Rico Jonschkowski, Oliver Brock*, (2015) , [pdf](https://pdfs.semanticscholar.org/dc93/f6d1b704abf12bbbb296f4ec250467bcb882.pdf)
 
 *********************************************************************
 ### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
