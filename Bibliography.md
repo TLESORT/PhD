@@ -82,6 +82,7 @@
 - [x] :ballot_box_with_check: **Neural Turing Machine**, *Alex Graves, Greg Wayne, Ivo Danihelka* , (2014) ,  [pdf](https://arxiv.org/pdf/1410.5401.pdf)
 - [x] :pencil2: **Neural Programmer-Interpreters**, *Scott Reed, Nando de Freitas* , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf)
 - [ ] **One Model To Learn Them All**, *Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit*, (2017), [pdf](https://arxiv.org/pdf/1706.05137), [arXiv](https://arxiv.org/abs/1706.05137)
+- [ ] ** Programmable Agents**, *Misha Denil, Sergio Gómez Colmenarejo, Serkan Cabi, David Saxton, Nando de Freitas*, (2017), [pdf](https://arxiv.org/pdf/1706.06383), [arXiv](https://arxiv.org/abs/1706.06383)
 
 *********************************************************************
 ### Overview
