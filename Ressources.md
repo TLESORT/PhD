@@ -6,6 +6,7 @@
 
 - [ ] **Methodes 'a noyaux en apprentissage statistique**, *Francis Bach - INRIA ENS* ,  [pdf](http://www.di.ens.fr/~fbach/rasma_fbach.pdf)
 
+- [ ] **MILA : Deep Learning Summer School**[page](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
 
 *********************************************************************
 ### 2. Cheatsheet
