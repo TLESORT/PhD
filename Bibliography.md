@@ -94,7 +94,7 @@
 - [ ] :page_facing_up: **Unsupervised Learning**, *Zoubin Ghahramani* , (2004), [pdf](http://www.inf.ed.ac.uk/teaching/courses/pmr/docs/ul.pdf)
 - [ ] **Representation Learning: A Review and New Perspectives** , *Yoshua Bengio, Aaron Courville, and Pascal Vincent* , (2012) , [pdf](http://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf)
 - [ ] **Active learning literature survey**, *Burr Settles*, (2009), [pdf](http://burrsettles.com/pub/settles.activelearning.pdf)
-- [ ] **A Survey on Transfer Learning** , Sinno Jialin Pan and Qiang Yang, (2010), [pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+- [x] **A Survey on Transfer Learning** , Sinno Jialin Pan and Qiang Yang, (2010), [pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 *********************************************************************
 ### Autres
 *********************************************************************
