@@ -53,7 +53,7 @@
 ### Apprendre sur de la video :
 *********************************************************************
 - [ ] **Learning to Annotate Dynamique Video Scene**, *Piotr bojanowski* (2016), [pdf](https://hal.inria.fr/tel-01364560/document)
-- [x] **Video Annotation and Tracking with Active Learning**, *Carl Vondrick, Deva Ramanan* , (), [pdf](http://carlvondrick.com/vatic/videoalearn.pdf)
+- [x] **Video Annotation and Tracking with Active Learning**, *Carl Vondrick, Deva Ramanan* , (2011), [pdf](http://carlvondrick.com/vatic/videoalearn.pdf), [slides](http://carlvondrick.com/vatic/videoalearnslides.pdf)
 - [ ] **Video2Text: Learning to Annotate Video Content**, *Hrishikesh Aradhye, George Toderici, Jay Yagnik*, ()
 - [ ] **Efficiently Scaling Up Crowdsourced Video Annotation : A Set of Best Practices for High Quality, Economical Video Labeling**, Carl Vondrick, Donald Patterson, Deva Ramanan , () [pdf](http://carlvondrick.com/vatic/ijcv.pdf)
 - [x] :ballot_box_with_check: **Object Detection and Counting with Low Quality Video**, *Hao Jiang, Shiquan Wang*
