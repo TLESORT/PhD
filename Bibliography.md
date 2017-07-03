@@ -28,6 +28,8 @@
 - [ ] **PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations**, *Rico Jonschkowski, Roland Hafner, Jonathan Scholz, Martin Riedmiller*, (2017), [pdf](https://arxiv.org/pdf/1705.09805), [arXiv](https://arxiv.org/abs/1705.09805)
 - [x] **Learning State Representations with Robotic Priors**, *Rico Jonschkowski, Oliver Brock*, (2015) , [pdf](https://pdfs.semanticscholar.org/dc93/f6d1b704abf12bbbb296f4ec250467bcb882.pdf)
 
+- [ ] **Decoupled Neural Interfaces using Synthetic Gradients**, *Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu*, (2016), [pdf](https://arxiv.org/pdf/1608.05343), [page](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)
+
 *********************************************************************
 ### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
 *********************************************************************
