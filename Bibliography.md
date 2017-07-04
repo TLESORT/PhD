@@ -10,12 +10,12 @@
 *********************************************************************
 ### Methodes non/faiblement supervisées :
 *********************************************************************
-- [ ] **Generating Diverse Image Datasets with Limited Labeling**, *Mithun, Niluthpol Chowdhury and Panda, Rameswar and Roy-Chowdhury, Amit K.* (2016)
-- [ ] **Unsupervised Object Discovery and Tracking in Video Collections**, *Suha Kwak, Minsu Cho, Ivan Laptev, Jean Ponce and Cordelia Schmid* (2015)
+- [ ] **Generating Diverse Image Datasets with Limited Labeling** <br> *Mithun, Niluthpol Chowdhury and Panda, Rameswar and Roy-Chowdhury, Amit K.* (2016)
+- [ ] **Unsupervised Object Discovery and Tracking in Video Collections** <br> *Suha Kwak, Minsu Cho, Ivan Laptev, Jean Ponce and Cordelia Schmid* (2015)
 - [ ] **A Poodle or a Dog? Evaluating Automatic Image Annotation Using Human Descriptions at Different Levels of Granularity**, *Josiah K Wang and Fei Yan and Ahmet Aker and Robert Gaizauskas*, (2014)
-- [ ] **Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning with Humans in the Loop**, *Yin Cui, Feng Zhou, Yuanqing Lin, Serge J. Belongie* (2015)
-- [ ] **Active deep learning method for semi-supervised sentiment classification**, *Shusen Zhou and Qingcai Chen and Xiaolong Wang* ,(2013)
-- [ ] **What is the Best Multi-Stage Architecture for Object Recognition?**, *Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato and Yann LeCun* , (2009), [pdf](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)
+- [ ] **Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning with Humans in the Loop** <br> *Yin Cui, Feng Zhou, Yuanqing Lin, Serge J. Belongie* (2015)
+- [ ] **Active deep learning method for semi-supervised sentiment classification** <br> *Shusen Zhou and Qingcai Chen and Xiaolong Wang* ,(2013)
+- [ ] **What is the Best Multi-Stage Architecture for Object Recognition?** <br> *Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato and Yann LeCun* , (2009), [pdf](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)
 - [ ] **Deep learning with COTS HPC systems**, *Adam Coates Brody Huval Tao Wang David J. Wu Andrew Y. Ng*, (2013), [pdf](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf)
 - [ ] **Generalized Belief Propagation** , *Jonathan S. Yedidia, William T. Freeman, Yair Weiss* , (2011) [pdf](https://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf)
 - [x] **The Curious Robot: Learning Visual Representations via Physical Interactions**,*Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf) [slides](https://pdfs.semanticscholar.org/a6ee/1a3d623daa2714f70232d4fa61cbd1b3cff3.pdf)
