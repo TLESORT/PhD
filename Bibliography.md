@@ -56,6 +56,7 @@
 - [x] :ballot_box_with_check: **Object Detection and Counting with Low Quality Video** <br> *Hao Jiang, Shiquan Wang*
 - [ ] **The "something something" video database for learning and evaluating visual common sense** <br> *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzyńska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic*, (2017), [arXiv](https://arxiv.org/abs/1706.04261), [pdf](https://arxiv.org/pdf/1706.04261)
 - [ ] **Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos** (2015) <br> *Ishan Misra, Abhinav Shrivastava, Martial Hebert* [pdf](http://ri.cmu.edu/pub_files/2015/6/0542.pdf)
+- [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
 
 *********************************************************************
 ### Learning State Representation :
