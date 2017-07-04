@@ -8,7 +8,7 @@
 ## 1. Thematiques Directement liées au sujet
 
 *********************************************************************
-### Methodes non/faiblement supervisées :
+### Unsupervised and Weakly Supervised Learning:
 *********************************************************************
 - [ ] **Generating Diverse Image Datasets with Limited Labeling** <br> *Mithun, Niluthpol Chowdhury and Panda, Rameswar and Roy-Chowdhury, Amit K.* (2016)
 - [ ] **Unsupervised Object Discovery and Tracking in Video Collections** <br> *Suha Kwak, Minsu Cho, Ivan Laptev, Jean Ponce and Cordelia Schmid* (2015)
@@ -26,7 +26,7 @@
 - [ ] **Decoupled Neural Interfaces using Synthetic Gradients**, *Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu*, (2016), [pdf](https://arxiv.org/pdf/1608.05343), [page](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)
 
 *********************************************************************
-### Méthodes d'apprentissage incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
+### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
 *********************************************************************
 - [ ] **Curriculum Learning** <br> *Yoshua Bengio, Jerome Louradour, Ronan Collobert and Jason Weston*, (2009)
 - [ ] **Incremental and Decremental Support Vector Machine Learning** <br> *Gert Cauwenberghs, Tomaso Poggio*, (2001)
@@ -47,7 +47,7 @@
 - [ ] **Deep reinforcement learning from human preferences** <br> ** , (2017), [pdf](https://arxiv.org/pdf/1706.03741), [arXiv](https://arxiv.org/abs/1706.03741), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170603741C&data_type=BIBTEX&db_key=PRE&nocookieset=1)
 
 *********************************************************************
-### Apprendre sur de la video :
+### Learning on Video :
 *********************************************************************
 - [ ] **Learning to Annotate Dynamique Video Scene** <br> *Piotr bojanowski* (2016), [pdf](https://hal.inria.fr/tel-01364560/document)
 - [x] **Video Annotation and Tracking with Active Learning** <br> *Carl Vondrick, Deva Ramanan* , (2011), [pdf](http://carlvondrick.com/vatic/videoalearn.pdf), [slides](http://carlvondrick.com/vatic/videoalearnslides.pdf)
@@ -55,6 +55,7 @@
 - [ ] **Efficiently Scaling Up Crowdsourced Video Annotation : A Set of Best Practices for High Quality, Economical Video Labeling** <br> Carl Vondrick, Donald Patterson, Deva Ramanan , () [pdf](http://carlvondrick.com/vatic/ijcv.pdf)
 - [x] :ballot_box_with_check: **Object Detection and Counting with Low Quality Video** <br> *Hao Jiang, Shiquan Wang*
 - [ ] **The "something something" video database for learning and evaluating visual common sense** <br> *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzyńska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic*, (2017), [arXiv](https://arxiv.org/abs/1706.04261), [pdf](https://arxiv.org/pdf/1706.04261)
+- [ ] **Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos** (2015) <br> *Ishan Misra, Abhinav Shrivastava, Martial Hebert* [pdf](http://ri.cmu.edu/pub_files/2015/6/0542.pdf)
 
 *********************************************************************
 ### Learning State Representation :
