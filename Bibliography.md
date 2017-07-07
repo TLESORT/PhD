@@ -68,6 +68,7 @@
 - [x] **Embed to control: A locally linear latent dynamics model for control from raw images** <br> *Watter, Manuel, et al*, (2015)
 - [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br> *Finn, Chelsea, et al.*, (2016)
 - [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) 
+- [ ] **Learning State Representation for Deep Actor-Critic Control** <br> *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
 
 ## 2. Thematiques sous-jacentes
 
