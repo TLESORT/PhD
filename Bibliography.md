@@ -69,6 +69,7 @@
 - [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br> *Finn, Chelsea, et al.*, (2016)
 - [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) 
 - [ ] **Learning State Representation for Deep Actor-Critic Control** <br> *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
+- [ ] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** <br> *Arunkumar Byravan and Dieter Fox*, (2017), [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf)
 
 ## 2. Thematiques sous-jacentes
 
