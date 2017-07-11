@@ -59,7 +59,7 @@
 - [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
 
 *********************************************************************
-### Learning State Representation :
+### Learning State Representation, qnd physique interaction :
 *********************************************************************
 
 - [ ] **End-To-End Learnable Histogra; Filters** (2017) <br> *Rico Jonschkowski & Oliver Brock* [pdf](https://openreview.net/pdf?id=ByvJuTigl)
@@ -70,6 +70,7 @@
 - [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) 
 - [ ] **Learning State Representation for Deep Actor-Critic Control** <br> *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
 - [ ] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** <br> *Arunkumar Byravan and Dieter Fox*, (2017), [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf)
+- [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br> *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
 
 ## 2. Thematiques sous-jacentes
 
