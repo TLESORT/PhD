@@ -59,6 +59,12 @@
 - [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
 
 *********************************************************************
+### Meta Learning :
+*********************************************************************
+
+- [ ]  **Meta-Learning with Temporal Convolutions** <br> *Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel* (2017) [pdf](https://arxiv.org/pdf/1707.03141) [arXiv](https://arxiv.org/abs/1707.03141)
+
+*********************************************************************
 ### Learning State Representation, and physique interaction :
 *********************************************************************
 
