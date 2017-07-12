@@ -59,7 +59,7 @@
 - [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
 
 *********************************************************************
-### Learning State Representation, qnd physique interaction :
+### Learning State Representation, and physique interaction :
 *********************************************************************
 
 - [ ] **End-To-End Learnable Histogra; Filters** (2017) <br> *Rico Jonschkowski & Oliver Brock* [pdf](https://openreview.net/pdf?id=ByvJuTigl)
@@ -73,6 +73,12 @@
 - [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br> *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
 
 ## 2. Thematiques sous-jacentes
+
+*********************************************************************
+### Reinforcement Learning
+*********************************************************************
+
+- [ ] **Hindsight Experience Replay** <br> *Marcin Andrychowicz,  Filip Wolski,  Alex Ray,  Jonas Schneider,  Rachel Fong, Peter Welinder,  Bob McGrew,  Josh Tobin,  Pieter Abbeel,  Wojciech Zaremba*, (2017), [pdf](https://arxiv.org/pdf/1707.01495.pdf)
 
 *********************************************************************
 ### Methodes d'apprentissage et d'optimisation
@@ -117,6 +123,7 @@
 - [ ] **Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex** <br> *Qianli Liao, Tomaso Poggio*, (2016), [pdf](https://arxiv.org/pdf/1604.03640), [arXiv](https://arxiv.org/abs/1604.03640) 
 - [ ] **Poincaré Embeddings for Learning Hierarchical Representations** <br> (2017) ** , , [pdf](https://arxiv.org/pdf/1705.08039) [arXiv](https://arxiv.org/abs/1705.08039)
 
+- [ ] **Domain  Randomization  for  Transferring  Deep  Neural  Networks  from Simulation  to  the  Real  World** <br> *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* , (2017), [pdf](https://arxiv.org/pdf/1703.06907.pdf)
 
 
 *********************************************************************
