@@ -75,7 +75,7 @@
 - [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br> *Finn, Chelsea, et al.*, (2016)
 - [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) 
 - [ ] **Learning State Representation for Deep Actor-Critic Control** <br> *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
-- [ ] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** <br> *Arunkumar Byravan and Dieter Fox*, (2017), [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf)
+- [x] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** (2017) <br> *Arunkumar Byravan and Dieter Fox*, :ballot_box_with_check: :thumb_up:, [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf) 
 - [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br> *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
 
 ## 2. Thematiques sous-jacentes
@@ -104,8 +104,8 @@
 - [ ] **Deep Residual Learning for Image Recognition** <br> *Kaiming He,Xiangyu Zhang, Shaoqing Ren, Jian Sun*
 - [ ] **Long Short-Term Memory**, *Hochreiter, Sepp and Schmidhuber, Jurgen* (1997)
 - [x] **SSD: Single Shot MultiBox Detector** <br> *Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott E. Reed, Cheng{-}Yang Fu, Alexander C. Berg* (2015)
-- [x] :ballot_box_with_check: **Neural Turing Machine** <br> *Alex Graves, Greg Wayne, Ivo Danihelka* , (2014) ,  [pdf](https://arxiv.org/pdf/1410.5401.pdf)
-- [x] :pencil2: **Neural Programmer-Interpreters** <br> *Scott Reed, Nando de Freitas* , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf)
+- [x]  **Neural Turing Machine** <br> *Alex Graves, Greg Wayne, Ivo Danihelka* :ballot_box_with_check:, (2014) ,  [pdf](https://arxiv.org/pdf/1410.5401.pdf)
+- [x]  **Neural Programmer-Interpreters** <br> *Scott Reed, Nando de Freitas* :pencil2: , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf) 
 - [ ] **One Model To Learn Them All** <br> *Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit*, (2017), [pdf](https://arxiv.org/pdf/1706.05137), [arXiv](https://arxiv.org/abs/1706.05137)
 - [ ] ** Programmable Agents** <br> *Misha Denil, Sergio Gómez Colmenarejo, Serkan Cabi, David Saxton, Nando de Freitas*, (2017), [pdf](https://arxiv.org/pdf/1706.06383), [arXiv](https://arxiv.org/abs/1706.06383)
 
