@@ -8,6 +8,8 @@
 
 - [ ] **MILA : Deep Learning Summer School**  [page](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)
 
+- [ ] **Cours de Géométrie Différentielle** , [page](https://www.math.u-psud.fr/~pansu/web_dea/resume_dea_04.html)
+
 *********************************************************************
 ### 2. Cheatsheet
 *********************************************************************
