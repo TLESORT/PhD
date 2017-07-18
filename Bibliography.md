@@ -78,6 +78,9 @@
 - [x] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** (2017) <br> :ballot_box_with_check: :thumbsup: *Arunkumar Byravan and Dieter Fox*, [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf) 
 - [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br> *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
 
+- [ ] **A Physics-Based Model Prior for Object-Oriented MDPs** (2014) <br>
+*Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf)
+
 ## 2. Thematiques sous-jacentes
 
 *********************************************************************
