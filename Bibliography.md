@@ -137,6 +137,8 @@
 
 - [ ] **Domain  Randomization  for  Transferring  Deep  Neural  Networks  from Simulation  to  the  Real  World** <br> *Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* , (2017), [pdf](https://arxiv.org/pdf/1703.06907.pdf)
 
+- [ ] **Submanifold Sparse Convolutional Networks** (2017) <br>
+*Benjamin Graham, Laurens van der Maaten*, [pdf](https://arxiv.org/pdf/1706.01307.pdf)
 
 *********************************************************************
 ### Thematiques
