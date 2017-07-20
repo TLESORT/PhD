@@ -25,6 +25,9 @@
 
 - [ ] **Decoupled Neural Interfaces using Synthetic Gradients**, *Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu*, (2016), [pdf](https://arxiv.org/pdf/1608.05343), [page](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)
 
+- [ ] **Learning image representations tied to ego-motion**, (2015) <br>
+*Dinesh Jayaraman, Kristen Grauman* [pdf](http://www.cs.utexas.edu/~grauman/papers/jayaraman-iccv2015.pdf)
+
 *********************************************************************
 ### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
 *********************************************************************
