@@ -4,6 +4,8 @@
 - [x] lu
 - [x] :ballot_box_with_check: lu et résumé <br>
  :fire: article cool
+ 
+ - [ ] **example** (XXXx) <br> ,  *Me* [pdf]() [Arxiv]() [bib]()
 
 ## 1. Thematiques Directement liées au sujet
 
@@ -20,8 +22,8 @@
 - [ ] **Generalized Belief Propagation** , *Jonathan S. Yedidia, William T. Freeman, Yair Weiss* , (2011) [pdf](https://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf)
 - [ ] **Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data** , *Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt*, (2017),  [pdf](https://openreview.net/pdf?id=HyTqHL5xg)
 - [ ] **Deep Kalman Filters**, *Rahul G. Krishnan, Uri Shalit, David Sontag*, (2015), [pdf](https://arxiv.org/abs/1511.05121)
-- [ ] **PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations**, *Rico Jonschkowski, Roland Hafner, Jonathan Scholz, Martin Riedmiller*, (2017), [pdf](https://arxiv.org/pdf/1705.09805), [arXiv](https://arxiv.org/abs/1705.09805)
-- [x] **Learning State Representations with Robotic Priors**, *Rico Jonschkowski, Oliver Brock*, (2015) , [pdf](https://pdfs.semanticscholar.org/dc93/f6d1b704abf12bbbb296f4ec250467bcb882.pdf)
+- [ ] **PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations**, *Rico Jonschkowski, Roland Hafner, Jonathan Scholz, Martin Riedmiller*, (2017), [pdf](https://arxiv.org/pdf/1705.09805), [arXiv](https://arxiv.org/abs/1705.09805), [Arxiv](https://arxiv.org/abs/1705.09805) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/JonschkowskiHSR17) 
+- [x] **Learning State Representations with Robotic Priors**, *Rico Jonschkowski, Oliver Brock*, (2015) , [pdf](https://pdfs.semanticscholar.org/dc93/f6d1b704abf12bbbb296f4ec250467bcb882.pdf) [bib](http://dl.acm.org/citation.cfm?id=2825776)
 
 - [ ] **Decoupled Neural Interfaces using Synthetic Gradients**, *Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu*, (2016), [pdf](https://arxiv.org/pdf/1608.05343), [page](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)
 
@@ -61,6 +63,7 @@
 - [ ] **Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos** (2015) <br> *Ishan Misra, Abhinav Shrivastava, Martial Hebert* [pdf](http://ri.cmu.edu/pub_files/2015/6/0542.pdf)
 - [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
 
+
 *********************************************************************
 ### Meta Learning :
 *********************************************************************
@@ -72,17 +75,19 @@
 *********************************************************************
 
 - [ ] **End-To-End Learnable Histogra; Filters** (2017) <br> *Rico Jonschkowski & Oliver Brock* [pdf](https://openreview.net/pdf?id=ByvJuTigl)
-- [x] **The Curious Robot: Learning Visual Representations via Physical Interactions** <br> *Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf) [slides](https://pdfs.semanticscholar.org/a6ee/1a3d623daa2714f70232d4fa61cbd1b3cff3.pdf)
+- [x] **The Curious Robot: Learning Visual Representations via Physical Interactions** <br> *Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/PintoGHPG16) [slides](https://pdfs.semanticscholar.org/a6ee/1a3d623daa2714f70232d4fa61cbd1b3cff3.pdf)
 - [x] **Autonomous reinforcement learning on raw visual input data in a real world application** <br> *Lange, Sascha, et al* , (2012)
 - [x] **Embed to control: A locally linear latent dynamics model for control from raw images** <br> *Watter, Manuel, et al*, (2015)
-- [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br> *Finn, Chelsea, et al.*, (2016)
-- [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) 
+- [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br> *Finn, Chelsea, et al.*, (2016) [pdf](https://arxiv.org/pdf/1509.06113) [arXiv](https://arxiv.org/abs/1509.06113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/FinnTDDLA15)
+- [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) [pdf](https://brml.org/uploads/tx_sibibtex/Hoof2016.pdf) [bib](http://ieeexplore.ieee.org/document/7759578/)
 - [ ] **Learning State Representation for Deep Actor-Critic Control** <br> *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
 - [x] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** (2017) <br> :ballot_box_with_check: :thumbsup: *Arunkumar Byravan and Dieter Fox*, [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf) 
 - [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br> *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
-
+- **Label-Free Supervision of Neural Networks with Physics and Domain Knowledge**<br> *Russell Stewart , Stefano Ermon*, (2016) [pdf](https://arxiv.org/pdf/1609.05566) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/StewartE16)
 - [ ] **A Physics-Based Model Prior for Object-Oriented MDPs** (2014) <br>
-*Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf)
+*Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf) [bib](http://dl.acm.org/citation.cfm?id=3045014)
+- [ ] **Slow Feature Analysis:Unsupervised Learning of Invariance**<br> *Laurenz Wiskott, Terrence J. Sejnowski* [pdf](https://papers.cnl.salk.edu/PDFs/Slow%20Feature%20Analysis_%20Unsupervised%20Learning%20of%20Invariances%202002-3430.pdf) [bib](http://dl.acm.org/citation.cfm?id=638941)
+ - [ ] **Incremental Slow Feature Analysis** <br> *Varun Raj Kompella, Matthew Luciw, and Jurgen Schmidhuber* (2011) [pdf](https://www.ijcai.org/Proceedings/11/Papers/229.pdf) [ArXiv](https://arxiv.org/abs/1112.2113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1112-2113)
 
 ## 2. Thematiques sous-jacentes
 
