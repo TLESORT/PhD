@@ -52,6 +52,13 @@
 - [ ] **Deep reinforcement learning from human preferences** <br> ** , (2017), [pdf](https://arxiv.org/pdf/1706.03741), [arXiv](https://arxiv.org/abs/1706.03741), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170603741C&data_type=BIBTEX&db_key=PRE&nocookieset=1)
 
 *********************************************************************
+### One/few shot learning :
+*********************************************************************
+- [ ] **Few-Shot Learning Through an Information Retrieval Lens** (2017) <br>
+*Eleni Triantafillou, Richard Zemel, Raquel Urtasun* [pdf](https://arxiv.org/pdf/1707.02610.pdf)
+
+
+*********************************************************************
 ### Learning on Video :
 *********************************************************************
 - [ ] **Learning to Annotate Dynamique Video Scene** <br> *Piotr bojanowski* (2016), [pdf](https://hal.inria.fr/tel-01364560/document)
