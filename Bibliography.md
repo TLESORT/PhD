@@ -65,7 +65,8 @@
 - [x] **Video Annotation and Tracking with Active Learning** <br> *Carl Vondrick, Deva Ramanan* , (2011), [pdf](http://carlvondrick.com/vatic/videoalearn.pdf), [slides](http://carlvondrick.com/vatic/videoalearnslides.pdf)
 - [ ] **Video2Text: Learning to Annotate Video Content** <br> *Hrishikesh Aradhye, George Toderici, Jay Yagnik*, ()
 - [ ] **Efficiently Scaling Up Crowdsourced Video Annotation : A Set of Best Practices for High Quality, Economical Video Labeling** <br> Carl Vondrick, Donald Patterson, Deva Ramanan , () [pdf](http://carlvondrick.com/vatic/ijcv.pdf)
-- [x] :ballot_box_with_check: **Object Detection and Counting with Low Quality Video** <br> *Hao Jiang, Shiquan Wang*
+- [x]  **Object Detection and Counting with Low Quality Video** <br>
+:ballot_box_with_check: *Hao Jiang, Shiquan Wang*
 - [ ] **The "something something" video database for learning and evaluating visual common sense** <br> *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzyńska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic*, (2017), [arXiv](https://arxiv.org/abs/1706.04261), [pdf](https://arxiv.org/pdf/1706.04261)
 - [ ] **Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos** (2015) <br> *Ishan Misra, Abhinav Shrivastava, Martial Hebert* [pdf](http://ri.cmu.edu/pub_files/2015/6/0542.pdf)
 - [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
@@ -93,8 +94,8 @@
 - **Label-Free Supervision of Neural Networks with Physics and Domain Knowledge**<br> *Russell Stewart , Stefano Ermon*, (2016) [pdf](https://arxiv.org/pdf/1609.05566) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/StewartE16)
 - [ ] **A Physics-Based Model Prior for Object-Oriented MDPs** (2014) <br>
 *Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf) [bib](http://dl.acm.org/citation.cfm?id=3045014)
-- [ ] **Slow Feature Analysis:Unsupervised Learning of Invariance**<br> *Laurenz Wiskott, Terrence J. Sejnowski* [pdf](https://papers.cnl.salk.edu/PDFs/Slow%20Feature%20Analysis_%20Unsupervised%20Learning%20of%20Invariances%202002-3430.pdf) [bib](http://dl.acm.org/citation.cfm?id=638941)
- - [ ] **Incremental Slow Feature Analysis** <br> *Varun Raj Kompella, Matthew Luciw, and Jurgen Schmidhuber* (2011) [pdf](https://www.ijcai.org/Proceedings/11/Papers/229.pdf) [ArXiv](https://arxiv.org/abs/1112.2113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1112-2113)
+- [x] **Slow Feature Analysis:Unsupervised Learning of Invariance**<br> *Laurenz Wiskott, Terrence J. Sejnowski* [pdf](https://papers.cnl.salk.edu/PDFs/Slow%20Feature%20Analysis_%20Unsupervised%20Learning%20of%20Invariances%202002-3430.pdf) [bib](http://dl.acm.org/citation.cfm?id=638941)
+ - [x] **Incremental Slow Feature Analysis** <br> *Varun Raj Kompella, Matthew Luciw, and Jurgen Schmidhuber* (2011) [pdf](https://www.ijcai.org/Proceedings/11/Papers/229.pdf) [ArXiv](https://arxiv.org/abs/1112.2113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1112-2113)
 
 ## 2. Thematiques sous-jacentes
 
@@ -130,7 +131,7 @@
 :pencil2: *Scott Reed, Nando de Freitas* , (2014), [pdf](https://arxiv.org/pdf/1511.06279.pdf) 
 - [ ] **One Model To Learn Them All** <br>
 *Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit*, (2017), [pdf](https://arxiv.org/pdf/1706.05137), [arXiv](https://arxiv.org/abs/1706.05137)
-- [ ] ** Programmable Agents** <br>
+- [ ] **Programmable Agents** <br>
 *Misha Denil, Sergio Gómez Colmenarejo, Serkan Cabi, David Saxton, Nando de Freitas*, (2017), [pdf](https://arxiv.org/pdf/1706.06383), [arXiv](https://arxiv.org/abs/1706.06383)
 
 *********************************************************************
@@ -145,6 +146,8 @@
 - [ ] **Representation Learning: A Review and New Perspectives**  <br> *Yoshua Bengio, Aaron Courville, and Pascal Vincent* , (2012) , [pdf](http://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf)
 - [ ] **Active learning literature survey**, *Burr Settles*, (2009), [pdf](http://burrsettles.com/pub/settles.activelearning.pdf)
 - [x] **A Survey on Transfer Learning** , Sinno Jialin Pan and Qiang Yang, (2010), [pdf](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+- **Neuroscience-Inspired Artificial Intelligence** (2017) <br>
+*Demis Hassabis,Dharshan Kumaran,Christopher Summerfield,and Matthew Botvinick* [pdf](http://www.cell.com/neuron/pdf/S0896-6273(17)30509-3.pdf)
 *********************************************************************
 ### Autres
 *********************************************************************
