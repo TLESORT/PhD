@@ -30,6 +30,14 @@
 - [ ] **Learning image representations tied to ego-motion**, (2015) <br>
 *Dinesh Jayaraman, Kristen Grauman* [pdf](http://www.cs.utexas.edu/~grauman/papers/jayaraman-iccv2015.pdf)
 
+
+*********************************************************************
+### GAN  :
+*********************************************************************
+
+- [ ] **Optimizing the Latent Space of Generative Networks** (2017) <br>
+ *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
+
 *********************************************************************
 ### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
 *********************************************************************
