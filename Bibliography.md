@@ -35,7 +35,7 @@
 ### GAN  :
 *********************************************************************
 
-- [ ] **Optimizing the Latent Space of Generative Networks** (2017) <br>
+- [ ] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
  *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
 
 *********************************************************************
