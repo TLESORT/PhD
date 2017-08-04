@@ -145,7 +145,7 @@
 *********************************************************************
 ### Overview
 *********************************************************************
-- **Incremental learning algorithms and applications** (2016) <br> *Alexander Gepperth, Barbara Hammer* [pdf](https://hal.archives-ouvertes.fr/hal-01418129/file/article.pdf)
+- [x] **Incremental learning algorithms and applications** (2016) <br> *Alexander Gepperth, Barbara Hammer* [pdf](https://hal.archives-ouvertes.fr/hal-01418129/file/article.pdf)
 - [ ] **Understanding the difficuly of training deep feedforward neural networks** <br> *Xavier Glorot, Yoshua Bengio* (2010)
 - [x]  **Deep Learning in Neural Networks: An Overview** <br> :fire: *Jurgen Schmidhuber* , (2014) [pdf](https://arxiv.org/pdf/1404.7828.pdf)
 - [x]  **Deep Reinforcement Learning : An Overview** <br> :fire: *Yuxi Li*, (2017) , [pdf](https://arxiv.org/pdf/1701.07274.pdf)
