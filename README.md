@@ -1,6 +1,6 @@
 # PhD
 
-:uk: Incremental Methods of Deep Learning for Detection and Classifcation in a Robotics Environment 
+:uk: Incremental Methods of Deep Learning for Detection and Classifcation in a Robotics Environment <br>
 :fr: Méthodes Incrémentales d'Apprentissage Profond de Détection et de Classification Dans un Contexte Robotique
 
 ## Introduction
