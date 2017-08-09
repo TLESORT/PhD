@@ -170,6 +170,9 @@
 - [ ] **Submanifold Sparse Convolutional Networks** (2017) <br>
 *Benjamin Graham, Laurens van der Maaten*, [pdf](https://arxiv.org/pdf/1706.01307.pdf)
 
+- [ ] **KULLBACK–LEIBLER UPPER CONFIDENCE BOUNDS FOR OPTIMAL SEQUENTIAL ALLOCATION** (2013) <br>
+*Olivier Cappe, Aurelien Garivier,Odalric-Ambrym Maillard, Remi Munos and Gilles Stoltz* [pdf](https://arxiv.org/pdf/1210.1136.pdf)
+
 *********************************************************************
 ### Thematiques
 *********************************************************************
