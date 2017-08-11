@@ -90,20 +90,31 @@
 ### Learning State Representation, and physique interaction :
 *********************************************************************
 
-- [ ] **End-To-End Learnable Histogra; Filters** (2017) <br> *Rico Jonschkowski & Oliver Brock* [pdf](https://openreview.net/pdf?id=ByvJuTigl)
-- [x] **The Curious Robot: Learning Visual Representations via Physical Interactions** <br> *Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/PintoGHPG16) [slides](https://pdfs.semanticscholar.org/a6ee/1a3d623daa2714f70232d4fa61cbd1b3cff3.pdf)
-- [x] **Autonomous reinforcement learning on raw visual input data in a real world application** <br> *Lange, Sascha, et al* , (2012)
-- [x] **Embed to control: A locally linear latent dynamics model for control from raw images** <br> *Watter, Manuel, et al*, (2015) [pdf](https://pdfs.semanticscholar.org/21c9/dd68b908825e2830b206659ae6dd5c5bfc02.pdf) [arXiv](https://arxiv.org/abs/1506.07365) [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015arXiv150607365W&data_type=BIBTEX&db_key=PRE&nocookieset=1)
-- [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br> *Finn, Chelsea, et al.*, (2016) [pdf](https://arxiv.org/pdf/1509.06113) [arXiv](https://arxiv.org/abs/1509.06113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/FinnTDDLA15)
-- [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br> *van Hoof, Herke, et al*, (2016) [pdf](https://brml.org/uploads/tx_sibibtex/Hoof2016.pdf) [bib](http://ieeexplore.ieee.org/document/7759578/)
-- [ ] **Learning State Representation for Deep Actor-Critic Control** <br> *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
-- [x] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** (2017) <br> :ballot_box_with_check: :thumbsup: *Arunkumar Byravan and Dieter Fox*, [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf) 
-- [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br> *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
-- **Label-Free Supervision of Neural Networks with Physics and Domain Knowledge**<br> *Russell Stewart , Stefano Ermon*, (2016) [pdf](https://arxiv.org/pdf/1609.05566) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/StewartE16)
-- [ ] **A Physics-Based Model Prior for Object-Oriented MDPs** (2014) <br>
-*Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf) [bib](http://dl.acm.org/citation.cfm?id=3045014)
-- [x] **Slow Feature Analysis:Unsupervised Learning of Invariance**<br> *Laurenz Wiskott, Terrence J. Sejnowski* [pdf](https://papers.cnl.salk.edu/PDFs/Slow%20Feature%20Analysis_%20Unsupervised%20Learning%20of%20Invariances%202002-3430.pdf) [bib](http://dl.acm.org/citation.cfm?id=638941)
- - [x] **Incremental Slow Feature Analysis** <br> *Varun Raj Kompella, Matthew Luciw, and Jurgen Schmidhuber* (2011) [pdf](https://www.ijcai.org/Proceedings/11/Papers/229.pdf) [ArXiv](https://arxiv.org/abs/1112.2113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1112-2113)
+- [ ] **End-To-End Learnable Histogram Filters** (2017) <br>
+*Rico Jonschkowski & Oliver Brock* [pdf](https://openreview.net/pdf?id=ByvJuTigl)
+- [x] **The Curious Robot: Learning Visual Representations via Physical Interactions** <br>
+*Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*,(2016), [pdf](https://arxiv.org/pdf/1604.01360.pdf) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/PintoGHPG16) [slides](https://pdfs.semanticscholar.org/a6ee/1a3d623daa2714f70232d4fa61cbd1b3cff3.pdf)
+- [x] **Autonomous reinforcement learning on raw visual input data in a real world application** <br> :ballot_box_with_check: *Lange, Sascha, et al* , (2012)
+- [x] **Embed to control: A locally linear latent dynamics model for control from raw images** <br>
+:ballot_box_with_check: *Watter, Manuel, et al*, (2015) [pdf](https://pdfs.semanticscholar.org/21c9/dd68b908825e2830b206659ae6dd5c5bfc02.pdf) [arXiv](https://arxiv.org/abs/1506.07365) [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015arXiv150607365W&data_type=BIBTEX&db_key=PRE&nocookieset=1)
+- [x] **Deep Spatial Autoencoders for Visuomotor Learning.** <br>
+:ballot_box_with_check: *Finn, Chelsea, et al.*, (2016) [pdf](https://arxiv.org/pdf/1509.06113) [arXiv](https://arxiv.org/abs/1509.06113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/FinnTDDLA15)
+- [x] **Stable reinforcement learning with autoencoders for tactile and visual data.** <br>
+:ballot_box_with_check: *van Hoof, Herke, et al*, (2016) [pdf](https://brml.org/uploads/tx_sibibtex/Hoof2016.pdf) [bib](http://ieeexplore.ieee.org/document/7759578/)
+- [x] **Learning State Representation for Deep Actor-Critic Control** <br>
+:ballot_box_with_check: *Jelle Munk, Jens Kober and Robert Babuska*, (2016) [pdf](http://www.jenskober.de/MunkCDC2016.pdf)
+- [x] **SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks** (2017) <br>
+:ballot_box_with_check: :thumbsup: *Arunkumar Byravan and Dieter Fox*, [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf) 
+- [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br>
+*Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
+- [x]**Label-Free Supervision of Neural Networks with Physics and Domain Knowledge**<br>
+:ballot_box_with_check: *Russell Stewart , Stefano Ermon*, (2016) [pdf](https://arxiv.org/pdf/1609.05566) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/StewartE16)
+- [x] **A Physics-Based Model Prior for Object-Oriented MDPs** (2014) <br>
+:ballot_box_with_check: *Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf) [bib](http://dl.acm.org/citation.cfm?id=3045014)
+- [x] **Slow Feature Analysis:Unsupervised Learning of Invariance**<br>
+*Laurenz Wiskott, Terrence J. Sejnowski* [pdf](https://papers.cnl.salk.edu/PDFs/Slow%20Feature%20Analysis_%20Unsupervised%20Learning%20of%20Invariances%202002-3430.pdf) [bib](http://dl.acm.org/citation.cfm?id=638941)
+ - [x] **Incremental Slow Feature Analysis** <br>
+ *Varun Raj Kompella, Matthew Luciw, and Jurgen Schmidhuber* (2011) [pdf](https://www.ijcai.org/Proceedings/11/Papers/229.pdf) [ArXiv](https://arxiv.org/abs/1112.2113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1112-2113)
 
 ## 2. Thematiques sous-jacentes
 
