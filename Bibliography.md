@@ -107,7 +107,7 @@
 :ballot_box_with_check: :thumbsup: *Arunkumar Byravan and Dieter Fox*, [pdf](http://homes.cs.washington.edu/~barun/files/icra17_se3nets.pdf) 
 - [ ] **Accelerating Eulerian Fluid Simulation With Convolutional Networks** <br>
 *Jonathan Tompson, Kristofer Schlachter, Pablo Sprechmann, Ken Perlin*, (2016), [pdf](https://arxiv.org/abs/1607.03597)
-- [x]**Label-Free Supervision of Neural Networks with Physics and Domain Knowledge**<br>
+- [x] **Label-Free Supervision of Neural Networks with Physics and Domain Knowledge**<br>
 :ballot_box_with_check: *Russell Stewart , Stefano Ermon*, (2016) [pdf](https://arxiv.org/pdf/1609.05566) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/StewartE16)
 - [x] **A Physics-Based Model Prior for Object-Oriented MDPs** (2014) <br>
 :ballot_box_with_check: *Jonathan Scholz, Martin Levihn, Charles L. Isbell, David Wingate*, [pdf](http://proceedings.mlr.press/v32/scholz14.pdf) [bib](http://dl.acm.org/citation.cfm?id=3045014)
