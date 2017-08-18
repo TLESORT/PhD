@@ -78,6 +78,11 @@
 - [ ] **The "something something" video database for learning and evaluating visual common sense** <br> *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzyńska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic*, (2017), [arXiv](https://arxiv.org/abs/1706.04261), [pdf](https://arxiv.org/pdf/1706.04261)
 - [ ] **Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos** (2015) <br> *Ishan Misra, Abhinav Shrivastava, Martial Hebert* [pdf](http://ri.cmu.edu/pub_files/2015/6/0542.pdf)
 - [ ] **Unsupervised Feature Learning from Temporal Data** (2015) <br> *Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun* [ArXiv](https://arxiv.org/abs/1504.02518) [pdf](https://arxiv.org/pdf/1504.02518)
+- [ ] **Video (language) modeling: a baseline for generative models of natural videos**
+- [ ] **Anticipating the future by watching unlabeled video**
+- [ ] **Unsupervised learning of visual representations using videos**
+- [ ] **Deep learning from temporal coherence in video**
+- [ ] **Extracting slow subspaces from natural videos leads to complex cells**
 
 
 *********************************************************************
@@ -115,6 +120,10 @@
 *Laurenz Wiskott, Terrence J. Sejnowski* [pdf](https://papers.cnl.salk.edu/PDFs/Slow%20Feature%20Analysis_%20Unsupervised%20Learning%20of%20Invariances%202002-3430.pdf) [bib](http://dl.acm.org/citation.cfm?id=638941)
  - [x] **Incremental Slow Feature Analysis** <br>
  *Varun Raj Kompella, Matthew Luciw, and Jurgen Schmidhuber* (2011) [pdf](https://www.ijcai.org/Proceedings/11/Papers/229.pdf) [ArXiv](https://arxiv.org/abs/1112.2113) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1112-2113)
+- [x] **Learning to linearize under uncertainty ** (2015) <br>
+*R. Goroshin, M. Mathieu, and Y. LeCun* [pdf](https://arxiv.org/pdf/1506.03011.pdf)
+- [x] **Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data** (2017) <br>
+*Maximilian Soelch, Justin Bayer, Patrick van der Smagt* [pdf](https://openreview.net/pdf?id=HyTqHL5xg)
 
 ## 2. Thematiques sous-jacentes
 
