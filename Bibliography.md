@@ -91,6 +91,17 @@
 
 - [ ]  **Meta-Learning with Temporal Convolutions** <br> *Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel* (2017) [pdf](https://arxiv.org/pdf/1707.03141) [arXiv](https://arxiv.org/abs/1707.03141)
 
+- [ ] **SMASH: One-Shot Model Architecture Search through HyperNetworks** (2017) <br>
+*Andrew Brock, Theodore Lim, & J.M. Ritchie,Nick Weston* [pdf](https://arxiv.org/pdf/1708.05344.pdf)
+
+
+*********************************************************************
+### Network Component :
+*********************************************************************
+
+- [ ] **Focal Loss for Dense Object Detection** (2017) <br>
+*Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollar* [pdf](https://arxiv.org/pdf/1708.02002.pdf)
+
 *********************************************************************
 ### Learning State Representation, and physique interaction :
 *********************************************************************
