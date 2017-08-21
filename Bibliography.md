@@ -94,6 +94,9 @@
 - [ ] **SMASH: One-Shot Model Architecture Search through HyperNetworks** (2017) <br>
 *Andrew Brock, Theodore Lim, & J.M. Ritchie,Nick Weston* [pdf](https://arxiv.org/pdf/1708.05344.pdf)
 
+- [ ] **Learning Transferable Architectures for Scalable Image Recognition** (2017) <br>
+*Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le* [pdf](https://arxiv.org/pdf/1707.07012) [arXiv](https://arxiv.org/abs/1707.07012)
+
 
 *********************************************************************
 ### Network Component :
