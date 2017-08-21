@@ -37,6 +37,10 @@
 
 - [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
  *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
+ 
+ 
+- [ ] **Fisher GAN** (2017) <br>
+*Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
 
 *********************************************************************
 ### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
@@ -96,9 +100,6 @@
 
 - [ ] **Learning Transferable Architectures for Scalable Image Recognition** (2017) <br>
 *Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le* [pdf](https://arxiv.org/pdf/1707.07012) [arXiv](https://arxiv.org/abs/1707.07012)
-
-- [ ] **Fisher GAN** (2017) <br>
-*Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
 
 *********************************************************************
 ### Network Component :
