@@ -212,6 +212,9 @@
 - [ ] **KULLBACK–LEIBLER UPPER CONFIDENCE BOUNDS FOR OPTIMAL SEQUENTIAL ALLOCATION** (2013) <br>
 *Olivier Cappe, Aurelien Garivier,Odalric-Ambrym Maillard, Remi Munos and Gilles Stoltz* [pdf](https://arxiv.org/pdf/1210.1136.pdf)
 
+- [ ] **Why There Are Complementary Learning Systems in the Hippocampus and Neocortex: Insights From the Successes and Failures of Connectionist Models of Learning and  Memory** (1995) <br>
+*James L. McClelland, Bruce L. McNaughton, Randall C. O'Reilly*[pdf](https://stanford.edu/~jlmcc/papers/McCMcNaughtonOReilly95.pdf)
+
 *********************************************************************
 ### Thematiques
 *********************************************************************
