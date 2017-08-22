@@ -52,8 +52,10 @@
 - [ ] **RL-IAC: An Exploration Policy for Online Saliency Learning on an Autonomous Mobile Robot** <br> Craye, Céline and Filliat, David and Goudou, Jean-Francois ,(2016)
 - [ ] **Computational Baby Learning** <br> *Xiaodan Liang, Si Liu, Yunchao Wei,Luoqi Liu, Liang Lin, Shuicheng Yan* , (2014)
 - [ ] **How transferable are features in deep neural networks?** <br> *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* [pdf](https://arxiv.org/pdf/1706.02515.pdf) , (2014) 
-- [ ] **Overcoming catastrophic forgetting in neural networks** <br> *Kirkpatrick, Pascanu, Rabinowitz, 
-	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , (2016)
+- [x] **Overcoming catastrophic forgetting in neural networks** (2016) <br> *Kirkpatrick, Pascanu, Rabinowitz, 
+	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , [pdf](https://arxiv.org/pdf/1612.00796.pdf)
+- [x] **An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks** (2013) <br>
+*Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio* [pdf](https://arxiv.org/pdf/1312.6211)
 - [ ] **Learning without Forgetting** <br> *Zhizhong Li, Derek Hoiem* , (2016)
 - [x] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition** <br> *Vincenzo Lomonaco & Davide Maltoni* , (2017), [pdf](https://128.84.21.199/pdf/1705.03550.pdf)
 - [ ] **Active Long Term Memory Networks** <br> *Tommaso Furlanello, Jiaping Zhao, Andrew M. Saxe, Laurent Itti, and Bosco S. Tjan* , (2016)
