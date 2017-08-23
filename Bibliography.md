@@ -32,7 +32,7 @@
 
 
 *********************************************************************
-### GAN  :
+### Generative model  :
 *********************************************************************
 
 - [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
@@ -41,6 +41,9 @@
  
 - [ ] **Fisher GAN** (2017) <br>
 *Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
+
+- [ ] **VAE with a VampPrior** (2017) <br>
+ *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
 
 *********************************************************************
 ### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
