@@ -44,6 +44,14 @@
 
 - [ ] **VAE with a VampPrior** (2017) <br>
  *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
+ 
+ 
+ 
+*********************************************************************
+### Reccurent model  :
+*********************************************************************
+ - [x] **Twin Networks: Using the Future as a Regularizer** (2017) <br>
+ *Dmitriy Serdyuk, Rosemary Nan Ke, Alessandro Sordoni, Chris Pal, Yoshua Bengio* [pdf](https://arxiv.org/pdf/1708.06742.pdf)
 
 *********************************************************************
 ### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
