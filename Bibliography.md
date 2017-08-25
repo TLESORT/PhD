@@ -156,6 +156,8 @@
 *R. Goroshin, M. Mathieu, and Y. LeCun* [pdf](https://arxiv.org/pdf/1506.03011.pdf)
 - [x] **Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data** (2017) <br>
 *Maximilian Soelch, Justin Bayer, Patrick van der Smagt* [pdf](https://openreview.net/pdf?id=HyTqHL5xg)
+- [x] **Autonomous learning of state representations for control** (2015) <br>
+*Wendelin Bohmer, Jost Tobias Springenberg, Joschka Boedecker, Martin Riedmiller, Klaus Obermayer* [pdf](http://www.ni.tu-berlin.de/fileadmin/fg215/articles/boehmer15b.pdf)
 
 ## 2. Thematiques sous-jacentes
 
