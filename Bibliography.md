@@ -20,11 +20,6 @@
 - [ ] **What is the Best Multi-Stage Architecture for Object Recognition?** <br> *Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato and Yann LeCun* , (2009), [pdf](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)
 - [ ] **Deep learning with COTS HPC systems**, *Adam Coates Brody Huval Tao Wang David J. Wu Andrew Y. Ng*, (2013), [pdf](http://ai.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf)
 - [ ] **Generalized Belief Propagation** , *Jonathan S. Yedidia, William T. Freeman, Yair Weiss* , (2011) [pdf](https://papers.nips.cc/paper/1832-generalized-belief-propagation.pdf)
-- [ ] **Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data** , *Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt*, (2017),  [pdf](https://openreview.net/pdf?id=HyTqHL5xg) [arXiv](https://arxiv.org/abs/1605.06432) [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2016arXiv160506432K&data_type=BIBTEX&db_key=PRE&nocookieset=1)
-- [ ] **Deep Kalman Filters**, *Rahul G. Krishnan, Uri Shalit, David Sontag*, (2015), [pdf](https://arxiv.org/abs/1511.05121) [arXiv](https://arxiv.org/abs/1511.05121) [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2015arXiv151105121K&data_type=BIBTEX&db_key=PRE&nocookieset=1)
-- [ ] **PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations**, *Rico Jonschkowski, Roland Hafner, Jonathan Scholz, Martin Riedmiller*, (2017), [pdf](https://arxiv.org/pdf/1705.09805), [arXiv](https://arxiv.org/abs/1705.09805), [Arxiv](https://arxiv.org/abs/1705.09805) [bib](http://dblp.uni-trier.de/rec/bibtex/journals/corr/JonschkowskiHSR17) 
-- [x] **Learning State Representations with Robotic Priors**, *Rico Jonschkowski, Oliver Brock*, (2015) , [pdf](https://pdfs.semanticscholar.org/dc93/f6d1b704abf12bbbb296f4ec250467bcb882.pdf) [bib](http://dl.acm.org/citation.cfm?id=2825776)
-
 - [ ] **Decoupled Neural Interfaces using Synthetic Gradients**, *Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu*, (2016), [pdf](https://arxiv.org/pdf/1608.05343), [page](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)
 
 - [ ] **Learning image representations tied to ego-motion**, (2015) <br>
