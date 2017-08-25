@@ -45,7 +45,7 @@
 - [ ] **VAE with a VampPrior** (2017) <br>
  *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
  
- - [ ] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
+ - [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
 *Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
  
  
