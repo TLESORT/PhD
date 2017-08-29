@@ -42,6 +42,9 @@
  
  - [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
 *Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
+
+- [ ] **Wasserstein GAN** (2017) <br>
+*Martin Arjovsky, Soumith Chintala, and Leon Bottou* [pdf](https://arxiv.org/pdf/1701.07875.pdf)
  
  
 *********************************************************************
