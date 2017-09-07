@@ -69,6 +69,9 @@
  - [ ] **BEGAN: Boundary Equilibrium Generative Adversarial Networks** (2017) <br>
  *David Berthelot, Thomas Schumm, Luke Metz* [pdf](https://arxiv.org/pdf/1703.10717)
  
+ - [x] :fire: **Variational Lossy Autoencoder** (2016) <br>
+ *Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1611.02731.pdf)
+ 
 *********************************************************************
 ### Reccurent model  :
 *********************************************************************
