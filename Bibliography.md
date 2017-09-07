@@ -33,19 +33,41 @@
 - [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
  *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
  
- 
 - [ ] **Fisher GAN** (2017) <br>
 *Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
 
 - [ ] **VAE with a VampPrior** (2017) <br>
  *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
  
- - [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
+- [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
 *Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
 
 - [ ] **Wasserstein GAN** (2017) <br>
 *Martin Arjovsky, Soumith Chintala, and Leon Bottou* [pdf](https://arxiv.org/pdf/1701.07875.pdf)
+
+- [x] **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** (2016) <br>
+*Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1606.03657.pdf)
+
+- [ ] **Conditional Generative Adversarial Nets (CGAN)** (2014) <br>
+*Mehdi Mirza, Simon Osindero* , [pdf](https://arxiv.org/pdf/1411.1784)
+
+- [ ] **Wasserstein GAN** (2017) <br>
+*Martin Arjovsky, Soumith Chintala, Léon Bottou* [pdf](https://arxiv.org/pdf/1701.07875)
  
+ - [ ] **Least Squares Generative Adversarial Networks (LSGAN)** (2016) <br>
+ *Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley* , [pdf](https://arxiv.org/pdf/1611.04076)
+ 
+ - [ ] **How to Train Your DRAGAN** (2017) <br>
+ *Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira* [pdf](https://arxiv.org/abs/1705.07215)
+ 
+ - [ ] **Conditional Image Synthesis With Auxiliary Classifier GANs (ACGAN)** (2016) <br>
+ *Augustus Odena, Christopher Olah, Jonathon Shlens* [pdf](https://arxiv.org/pdf/1610.09585)
+ 
+ - [ ] **Energy-based Generative Adversarial Network (EBGAN)** (2016) <br>
+ *Junbo Zhao, Michael Mathieu, Yann LeCun* [pdf](https://arxiv.org/pdf/1609.03126)
+ 
+ - [ ] **BEGAN: Boundary Equilibrium Generative Adversarial Networks** (2017) <br>
+ *David Berthelot, Thomas Schumm, Luke Metz* [pdf](https://arxiv.org/pdf/1703.10717)
  
 *********************************************************************
 ### Reccurent model  :
