@@ -27,7 +27,7 @@
 
 
 *********************************************************************
-### Generative model  :
+### GAN :
 *********************************************************************
 
 - [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
@@ -36,9 +36,6 @@
 - [ ] **Fisher GAN** (2017) <br>
 *Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
 
-- [ ] **VAE with a VampPrior** (2017) <br>
- *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
- 
 - [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
 *Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
 
@@ -68,9 +65,19 @@
  
  - [ ] **BEGAN: Boundary Equilibrium Generative Adversarial Networks** (2017) <br>
  *David Berthelot, Thomas Schumm, Luke Metz* [pdf](https://arxiv.org/pdf/1703.10717)
+
+*********************************************************************
+### VAE :
+*********************************************************************
+
+- [ ] **VAE with a VampPrior** (2017) <br>
+ *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
  
  - [x] :fire: **Variational Lossy Autoencoder** (2016) <br>
  *Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1611.02731.pdf)
+ 
+ - [x] **Improved Variational Inference with Inverse Autoregressive Flow** (2016) <br>
+ *Diederik P. Kingma, Tim Salimans, Rafal Jozefowicz, Xi Chen, Ilya Sutskever, Max Welling* [pdf](https://arxiv.org/pdf/1606.04934.pdf)
  
 *********************************************************************
 ### Reccurent model  :
