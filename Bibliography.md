@@ -111,6 +111,9 @@
 - [ ] **Optimization as a Model for Few-Shot Learning**, *Sachin Ravi, Hugo Larochelle*, (2017), [pdf](https://openreview.net/pdf?id=rJY0-Kcll)
 - [ ] **Deep reinforcement learning from human preferences** <br> ** , (2017), [pdf](https://arxiv.org/pdf/1706.03741), [arXiv](https://arxiv.org/abs/1706.03741), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170603741C&data_type=BIBTEX&db_key=PRE&nocookieset=1)
 
+- [ ] **Overcoming Catastrophic Forgetting by Incremental Moment Matching** (2017) <br>
+*Sang-Woo Lee, Jin-Hwa Kim, Jaehyun Jun, Jung-Woo Ha, Byoung-Tak Zhang* [pdf](https://arxiv.org/pdf/1703.08475.pdf)
+
 *********************************************************************
 ### One/few shot learning :
 *********************************************************************
