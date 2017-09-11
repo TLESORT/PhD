@@ -65,6 +65,9 @@
  
  - [ ] **BEGAN: Boundary Equilibrium Generative Adversarial Networks** (2017) <br>
  *David Berthelot, Thomas Schumm, Luke Metz* [pdf](https://arxiv.org/pdf/1703.10717)
+ 
+ - [x] **Adversarially Learned Inference** (2016) <br>
+ *Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville* [pdf](https://arxiv.org/pdf/1606.00704.pdf)
 
 *********************************************************************
 ### VAE :
