@@ -114,6 +114,9 @@
 - [ ] **Overcoming Catastrophic Forgetting by Incremental Moment Matching** (2017) <br>
 *Sang-Woo Lee, Jin-Hwa Kim, Jaehyun Jun, Jung-Woo Ha, Byoung-Tak Zhang* [pdf](https://arxiv.org/pdf/1703.08475.pdf)
 
+- [ ] **Gradient Episodic Memory for Continual Learning** (2017) <br>
+*David Lopez-Paz and Marc’Aurelio Ranzato* [pdf](https://arxiv.org/pdf/1706.08840.pdf)
+
 *********************************************************************
 ### One/few shot learning :
 *********************************************************************
