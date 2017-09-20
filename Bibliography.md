@@ -68,6 +68,9 @@
  
  - [x] :fire: **Adversarially Learned Inference** (2016) <br>
  *Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville* [pdf](https://arxiv.org/pdf/1606.00704.pdf)
+ 
+ - [ ] **Stabilizing GAN Training with Multiple Random Projections** (2017) <br>
+ *Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti* [pdf](https://arxiv.org/abs/1705.07831)
 
 *********************************************************************
 ### VAE :
