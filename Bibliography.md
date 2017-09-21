@@ -120,6 +120,9 @@
 - [ ] **Gradient Episodic Memory for Continual Learning** (2017) <br>
 *David Lopez-Paz and Marc’Aurelio Ranzato* [pdf](https://arxiv.org/pdf/1706.08840.pdf)
 
+- [ ] **Incremental Learning of Object Detectors without Catastrophic Forgetting** (2017) <br>
+*Konstantin Shmelkov, Cordelia Schmid, Karteek Alahari* [pdf](https://arxiv.org/pdf/1708.06977.pdf)
+
 *********************************************************************
 ### Transfer learning :
 *********************************************************************
