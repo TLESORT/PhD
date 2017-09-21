@@ -30,23 +30,26 @@
 ### GAN :
 *********************************************************************
 
+- [ ] **Conditional Generative Adversarial Nets (CGAN)** (2014) <br>
+*Mehdi Mirza, Simon Osindero* , [pdf](https://arxiv.org/pdf/1411.1784)
+
+- [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
+*Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
+
+- [ ] **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)** (2015) <br>
+*Alec Radford, Luke Metz, Soumith Chintala* [pdf](https://arxiv.org/pdf/1511.06434.pdf)
+
 - [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
  *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
  
 - [ ] **Fisher GAN** (2017) <br>
 *Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
 
-- [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
-*Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
-
 - [ ] **Wasserstein GAN** (2017) <br>
 *Martin Arjovsky, Soumith Chintala, and Leon Bottou* [pdf](https://arxiv.org/pdf/1701.07875.pdf)
 
 - [x] **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** (2016) <br>
 *Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1606.03657.pdf)
-
-- [ ] **Conditional Generative Adversarial Nets (CGAN)** (2014) <br>
-*Mehdi Mirza, Simon Osindero* , [pdf](https://arxiv.org/pdf/1411.1784)
 
 - [ ] **Wasserstein GAN** (2017) <br>
 *Martin Arjovsky, Soumith Chintala, Léon Bottou* [pdf](https://arxiv.org/pdf/1701.07875)
