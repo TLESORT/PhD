@@ -92,7 +92,7 @@
  *Dmitriy Serdyuk, Rosemary Nan Ke, Alessandro Sordoni, Chris Pal, Yoshua Bengio* [pdf](https://arxiv.org/pdf/1708.06742.pdf)
 
 *********************************************************************
-### Learning Methods : incrémentale / transfert / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
+### Learning Methods : incrémentale  / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
 *********************************************************************
 - [ ] **Curriculum Learning** <br> *Yoshua Bengio, Jerome Louradour, Ronan Collobert and Jason Weston*, (2009)
 - [ ] **Incremental and Decremental Support Vector Machine Learning** <br> *Gert Cauwenberghs, Tomaso Poggio*, (2001)
@@ -119,6 +119,18 @@
 
 - [ ] **Gradient Episodic Memory for Continual Learning** (2017) <br>
 *David Lopez-Paz and Marc’Aurelio Ranzato* [pdf](https://arxiv.org/pdf/1706.08840.pdf)
+
+*********************************************************************
+### Transfer learning :
+*********************************************************************
+Ravi and Larochelle 17<br>
+Ha et al 17<br>
+li et malik 17<br>
+androchowicz et al 17<br>
+lake et al 11<br>
+edward and sharry 16<br>
+santory et al <br>
+vinyals et al 16
 
 *********************************************************************
 ### One/few shot learning :
