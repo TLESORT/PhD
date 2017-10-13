@@ -219,6 +219,9 @@ vinyals et al 16
 - [x] **Autonomous learning of state representations for control** (2015) <br>
 *Wendelin Bohmer, Jost Tobias Springenberg, Joschka Boedecker, Martin Riedmiller, Klaus Obermayer* [pdf](http://www.ni.tu-berlin.de/fileadmin/fg215/articles/boehmer15b.pdf)
 
+- [ ] **Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task** (2017) <br>
+*Stephen James, Andrew J. Davison, Edward Johns* [pdf](https://arxiv.org/pdf/1707.02267.pdf)
+
 ## 2. Thematiques sous-jacentes
 
 *********************************************************************
