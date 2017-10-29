@@ -30,22 +30,22 @@
 ### GAN :
 *********************************************************************
 
-- [ ] **Conditional Generative Adversarial Nets (CGAN)** (2014) <br>
+- [x] **Conditional Generative Adversarial Nets (CGAN)** (2014) <br>
 *Mehdi Mirza, Simon Osindero* , [pdf](https://arxiv.org/pdf/1411.1784)
 
 - [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
 *Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
 
-- [ ] **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)** (2015) <br>
+- [x] **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)** (2015) <br>
 *Alec Radford, Luke Metz, Soumith Chintala* [pdf](https://arxiv.org/pdf/1511.06434.pdf)
 
 - [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
  *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
  
-- [ ] **Fisher GAN** (2017) <br>
+- [x] **Fisher GAN** (2017) <br>
 *Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
 
-- [ ] **Wasserstein GAN** (2017) <br>
+- [x] **Wasserstein GAN** (2017) <br>
 *Martin Arjovsky, Soumith Chintala, and Leon Bottou* [pdf](https://arxiv.org/pdf/1701.07875.pdf)
 
 - [x] **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** (2016) <br>
@@ -60,7 +60,7 @@
  - [ ] **How to Train Your DRAGAN** (2017) <br>
  *Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira* [pdf](https://arxiv.org/abs/1705.07215)
  
- - [ ] **Conditional Image Synthesis With Auxiliary Classifier GANs (ACGAN)** (2016) <br>
+ - [x] **Conditional Image Synthesis With Auxiliary Classifier GANs (ACGAN)** (2016) <br>
  *Augustus Odena, Christopher Olah, Jonathon Shlens* [pdf](https://arxiv.org/pdf/1610.09585)
  
  - [ ] **Energy-based Generative Adversarial Network (EBGAN)** (2016) <br>
@@ -125,6 +125,9 @@
 
 - [ ] **Incremental Learning of Object Detectors without Catastrophic Forgetting** (2017) <br>
 *Konstantin Shmelkov, Cordelia Schmid, Karteek Alahari* [pdf](https://arxiv.org/pdf/1708.06977.pdf)
+
+- [ ] **FearNet: Brain-Inspired Model for Incremental Learning** (2017) <br>
+[openreview](https://openreview.net/forum?id=SJ1Xmf-Rb&noteId=SJ1Xmf-Rb)
 
 *********************************************************************
 ### Transfer learning :
@@ -229,6 +232,11 @@ vinyals et al 16
 *********************************************************************
 
 - [ ] **Hindsight Experience Replay** <br> *Marcin Andrychowicz,  Filip Wolski,  Alex Ray,  Jonas Schneider,  Rachel Fong, Peter Welinder,  Bob McGrew,  Josh Tobin,  Pieter Abbeel,  Wojciech Zaremba*, (2017), [pdf](https://arxiv.org/pdf/1707.01495.pdf)
+
+
+*********************************************************************
+### Reinforcement Learning
+*********************************************************************
 
 *********************************************************************
 ### Methodes d'apprentissage et d'optimisation
