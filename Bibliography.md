@@ -74,6 +74,9 @@
  
  - [ ] **Stabilizing GAN Training with Multiple Random Projections** (2017) <br>
  *Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti* [pdf](https://arxiv.org/abs/1705.07831)
+ 
+ - [ ] **Quantitatively Evaluating GANs With Divergences Proposed for Training** (2017) <br>
+ [pdf](https://openreview.net/pdf?id=SJQHjzZ0-)
 
 *********************************************************************
 ### VAE :
