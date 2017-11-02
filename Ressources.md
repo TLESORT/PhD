@@ -54,6 +54,7 @@
 :blue_book: Tutorial: Information Theory and Statistics, *Bin Yu* <br>
 :orange_book: Information Theory, Inference, and Learning Algorithms, *David J. C. MacKay* [pdf](http://www.inference.org.uk/itprnn/book.pdf) <br>
  :notebook_with_decorative_cover: Probability Theory: The logic of Science *E.T. Jaynes* [pdf](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
+ :closed_book:Reinforcement Learning: An Introduction [link](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
  
  *********************************************************************
 ### 5. More Ressources on Github
