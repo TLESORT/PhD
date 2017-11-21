@@ -168,7 +168,8 @@ vinyals et al 16
 - [x] **Matching Networks for One Shot Learning** (2016) <br>
 *Oriol Vinyals, Charles Blundell, Koray Kavukcuoglu, Timothy Lillicrap, Daan Wierstra*
 
-
+- [ ] **Few-Shot Learning with Graph Neural Networks** (2017) <br>
+*Victor Garcia, Joan Bruna* [pdf](https://arxiv.org/pdf/1711.04043)
 
 *********************************************************************
 ### Learning on Video :
