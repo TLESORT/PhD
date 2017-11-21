@@ -77,6 +77,12 @@
  
  - [ ] **Quantitatively Evaluating GANs With Divergences Proposed for Training** (2017) <br>
  [pdf](https://openreview.net/pdf?id=SJQHjzZ0-)
+ 
+ - [ ] **Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models** (2017) <br>
+ *Jesse Engel, Matthew Hoffman, Adam Roberts* [pdf](https://arxiv.org/pdf/1711.05772)
+ 
+ - [ ] **Spectrql Normalization For Generative Adversarial Networks** (2017) <br>
+ *Anonymous* [pdf](https://openreview.net/pdf?id=B1QRgziT-)
 
 *********************************************************************
 ### VAE :
@@ -149,6 +155,19 @@ vinyals et al 16
 *********************************************************************
 - [ ] **Few-Shot Learning Through an Information Retrieval Lens** (2017) <br>
 *Eleni Triantafillou, Richard Zemel, Raquel Urtasun* [pdf](https://arxiv.org/pdf/1707.02610.pdf)
+
+- [x] **Data Augmentation Generative Adversarial Networks** (2017) <br>
+*Antreas Antoniou, Amos Storkey, Harrison Edwards* [pdf](https://arxiv.org/pdf/1711.04340.pdf)
+
+- [ ] **Neural Turing Machines** (2014) <br>
+*Alex Graves, Greg Wayne, Ivo Danihelka*
+
+- [ ] **One-shot Learning with Memory-Augmented Neural Networks** (2016) <br>
+*Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap*
+
+- [x] **Matching Networks for One Shot Learning** (2016) <br>
+*Oriol Vinyals, Charles Blundell, Koray Kavukcuoglu, Timothy Lillicrap, Daan Wierstra*
+
 
 
 *********************************************************************
