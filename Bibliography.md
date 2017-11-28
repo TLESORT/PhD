@@ -138,6 +138,9 @@
 - [ ] **FearNet: Brain-Inspired Model for Incremental Learning** (2017) <br>
 [openreview](https://openreview.net/forum?id=SJ1Xmf-Rb&noteId=SJ1Xmf-Rb)
 
+- [ ] **Diffusion-based neuromodulation can eliminate catastrophic forgetting in simple neural networks** (2017) <br>
+*Roby Velez, Jeff Clune* [pdf](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0187736&type=printable)
+
 *********************************************************************
 ### Transfer learning :
 *********************************************************************
