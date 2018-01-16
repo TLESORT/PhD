@@ -141,6 +141,13 @@
 - [ ] **Diffusion-based neuromodulation can eliminate catastrophic forgetting in simple neural networks** (2017) <br>
 *Roby Velez, Jeff Clune* [pdf](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0187736&type=printable)
 
+- [ ] **Continual Learning with Deep Generative Replay** (2017) <br>
+*Hanul Shin, Jung Kwon Lee, Jaehong Kim, Jiwon Kim* [pdf](https://arxiv.org/pdf/1705.08690.pdf)
+
+- [ ] **Measuring Catastrophic Forgetting in Neural Networks** (2017) <br>
+*Ronald Kemker, Marc McClure, Angelina Abitino, Tyler Hayes, Christopher Kanan* [pdf](https://arxiv.org/pdf/1708.02072.pdf)
+
+
 *********************************************************************
 ### Transfer learning :
 *********************************************************************
