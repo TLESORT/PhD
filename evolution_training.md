@@ -44,6 +44,22 @@
 - [ ] **Measuring Catastrophic Forgetting in Neural Networks** (2017) <br>
 *Ronald Kemker, Marc McClure, Angelina Abitino, Tyler Hayes, Christopher Kanan* [pdf](https://arxiv.org/pdf/1708.02072.pdf)
 
+- [ ] **PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning** (2017) <br>
+*Arun Mallya, Svetlana Lazebnik*  [arXiv](https://arxiv.org/abs/1711.05769) [pdf](https://arxiv.org/pdf/1711.05769)
+
+
+- [ ] **Memory Aware Synapses: Learning what (not) to forget** (2017) <br>
+*Rahaf Aljundi, Francesca Babiloni, Mohamed Elhoseiny, Marcus Rohrbach, Tinne Tuytelaars*  [arXiv](https://arxiv.org/abs/1711.09601) [pdf](https://arxiv.org/pdf/1711.09601)
+
+- [ ] **Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting** (2018) <br>
+*Xialei Liu, Marc Masana, Luis Herranz, Joost Van de Weijer, Antonio M. Lopez, Andrew D. Bagdanov* [arXiv](https://arxiv.org/abs/1802.02950) [pdf](https://arxiv.org/pdf/1802.02950)
+
+
+- [ ] **Variational Continual Learning in Deep Models** (2017) <br>
+*Cuong V. Nguyen, Yingzhen Li, Thang D. Bui, Richard E. Turner* [pdf](http://bayesiandeeplearning.org/2017/papers/28.pdf)
+
+- [ ] **Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence** (2017) <br>
+*Arslan Chaudhry, Puneet K. Dokania, Thalaiyasingam Ajanthan, Philip H. S. Torr* [arXiv](https://arxiv.org/abs/1801.10112) [pdf](https://arxiv.org/pdf/1801.10112)
 
 *********************************************************************
 ### One/few shot learning :
