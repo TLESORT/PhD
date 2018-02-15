@@ -10,16 +10,16 @@
 ## 1. Thematiques Directement liées au sujet
 
 *********************************************************************
-### Evolution Learning
+### Evolution Training (incrementale / meta / few shot ...)
 *********************************************************************
 
-[Link To File](https://github.com/TLESORT/PhD/blob/master/evolution_training.md)
+[Link To Evolution Trainning Bibliography](https://github.com/TLESORT/PhD/blob/master/evolution_training.md)
 
 *********************************************************************
 ### Generative Models
 *********************************************************************
 
-[Link To File](https://github.com/TLESORT/PhD/blob/master/Generative_models.md)
+[Link To Generative Models Bibliography](https://github.com/TLESORT/PhD/blob/master/Generative_models.md)
 
 
 *********************************************************************
@@ -37,8 +37,6 @@
 
 - [ ] **Learning image representations tied to ego-motion**, (2015) <br>
 *Dinesh Jayaraman, Kristen Grauman* [pdf](http://www.cs.utexas.edu/~grauman/papers/jayaraman-iccv2015.pdf)
-
-
 
  
 *********************************************************************
