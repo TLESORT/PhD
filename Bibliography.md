@@ -10,6 +10,19 @@
 ## 1. Thematiques Directement liées au sujet
 
 *********************************************************************
+### Evolution Learning
+*********************************************************************
+
+[Link To File](https://github.com/TLESORT/PhD/blob/master/evolution_training.md)
+
+*********************************************************************
+### Generative Models
+*********************************************************************
+
+[Link To File](https://github.com/TLESORT/PhD/blob/master/Generative_models.md)
+
+
+*********************************************************************
 ### Unsupervised and Weakly Supervised Learning:
 *********************************************************************
 - [ ] **Generating Diverse Image Datasets with Limited Labeling** <br> *Mithun, Niluthpol Chowdhury and Panda, Rameswar and Roy-Chowdhury, Amit K.* (2016)
@@ -26,76 +39,7 @@
 *Dinesh Jayaraman, Kristen Grauman* [pdf](http://www.cs.utexas.edu/~grauman/papers/jayaraman-iccv2015.pdf)
 
 
-*********************************************************************
-### GAN :
-*********************************************************************
 
-- [x] **Conditional Generative Adversarial Nets (CGAN)** (2014) <br>
-*Mehdi Mirza, Simon Osindero* , [pdf](https://arxiv.org/pdf/1411.1784)
-
-- [x] **Autoencoding beyond pixels using a learned similarity metric** (2015) <br>
-*Anders Boesen Lindbo Larsen, Søren Kaae Sønderby, Hugo Larochelle,Ole Winther* [pdf](https://arxiv.org/pdf/1512.09300.pdf)
-
-- [x] **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)** (2015) <br>
-*Alec Radford, Luke Metz, Soumith Chintala* [pdf](https://arxiv.org/pdf/1511.06434.pdf)
-
-- [x] **Optimizing the Latent Space of Generative Networks (GLO)** (2017) <br>
- *Piotr Bojanowski, Armand Joulin, David Lopez-Paz, Arthur Szlam* [pdf](https://arxiv.org/pdf/1707.05776.pdf)
- 
-- [x] **Fisher GAN** (2017) <br>
-*Youssef Mroueh, Tom Sercu* [pdf](https://arxiv.org/pdf/1705.09675.pdf)
-
-- [x] **Wasserstein GAN** (2017) <br>
-*Martin Arjovsky, Soumith Chintala, and Leon Bottou* [pdf](https://arxiv.org/pdf/1701.07875.pdf)
-
-- [x] **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** (2016) <br>
-*Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1606.03657.pdf)
-
-- [ ] **Wasserstein GAN** (2017) <br>
-*Martin Arjovsky, Soumith Chintala, Léon Bottou* [pdf](https://arxiv.org/pdf/1701.07875)
- 
- - [ ] **Least Squares Generative Adversarial Networks (LSGAN)** (2016) <br>
- *Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley* , [pdf](https://arxiv.org/pdf/1611.04076)
- 
- - [ ] **How to Train Your DRAGAN** (2017) <br>
- *Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira* [pdf](https://arxiv.org/abs/1705.07215)
- 
- - [x] **Conditional Image Synthesis With Auxiliary Classifier GANs (ACGAN)** (2016) <br>
- *Augustus Odena, Christopher Olah, Jonathon Shlens* [pdf](https://arxiv.org/pdf/1610.09585)
- 
- - [ ] **Energy-based Generative Adversarial Network (EBGAN)** (2016) <br>
- *Junbo Zhao, Michael Mathieu, Yann LeCun* [pdf](https://arxiv.org/pdf/1609.03126)
- 
- - [ ] **BEGAN: Boundary Equilibrium Generative Adversarial Networks** (2017) <br>
- *David Berthelot, Thomas Schumm, Luke Metz* [pdf](https://arxiv.org/pdf/1703.10717)
- 
- - [x] :fire: **Adversarially Learned Inference** (2016) <br>
- *Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville* [pdf](https://arxiv.org/pdf/1606.00704.pdf)
- 
- - [ ] **Stabilizing GAN Training with Multiple Random Projections** (2017) <br>
- *Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti* [pdf](https://arxiv.org/abs/1705.07831)
- 
- - [ ] **Quantitatively Evaluating GANs With Divergences Proposed for Training** (2017) <br>
- [pdf](https://openreview.net/pdf?id=SJQHjzZ0-)
- 
- - [ ] **Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models** (2017) <br>
- *Jesse Engel, Matthew Hoffman, Adam Roberts* [pdf](https://arxiv.org/pdf/1711.05772)
- 
- - [ ] **Spectrql Normalization For Generative Adversarial Networks** (2017) <br>
- *Anonymous* [pdf](https://openreview.net/pdf?id=B1QRgziT-)
-
-*********************************************************************
-### VAE :
-*********************************************************************
-
-- [ ] **VAE with a VampPrior** (2017) <br>
- *Jakub M. Tomczak, Max Welling* [pdf](https://arxiv.org/pdf/1705.07120.pdf)
- 
- - [x] :fire: **Variational Lossy Autoencoder** (2016) <br>
- *Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1611.02731.pdf)
- 
- - [x] **Improved Variational Inference with Inverse Autoregressive Flow** (2016) <br>
- *Diederik P. Kingma, Tim Salimans, Rafal Jozefowicz, Xi Chen, Ilya Sutskever, Max Welling* [pdf](https://arxiv.org/pdf/1606.04934.pdf)
  
 *********************************************************************
 ### Reccurent model  :
@@ -103,83 +47,8 @@
  - [x] **Twin Networks: Using the Future as a Regularizer** (2017) <br>
  *Dmitriy Serdyuk, Rosemary Nan Ke, Alessandro Sordoni, Chris Pal, Yoshua Bengio* [pdf](https://arxiv.org/pdf/1708.06742.pdf)
 
-*********************************************************************
-### Learning Methods : incrémentale  / par curriculum / progressif / fine-tuning / sequentiel / Inductive transfer  :
-*********************************************************************
-- [ ] **Curriculum Learning** <br> *Yoshua Bengio, Jerome Louradour, Ronan Collobert and Jason Weston*, (2009)
-- [ ] **Incremental and Decremental Support Vector Machine Learning** <br> *Gert Cauwenberghs, Tomaso Poggio*, (2001)
-- [ ] **Online Incremental Feature Learning with Denoising Autoencoders** <br> *Guanyu Zhou and Kihyuk Sohn and Honglak Lee*
-- [ ] **Progressive Neural Networks** <br> *Andrei A. Rusu, Neil C. Rabinowitz and Guillaume Desjardins and Hubert Soyer and James Kirkpatrick*, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell*, (2016)
-- [ ] **RL-IAC: An Exploration Policy for Online Saliency Learning on an Autonomous Mobile Robot** <br> Craye, Céline and Filliat, David and Goudou, Jean-Francois ,(2016)
-- [ ] **Computational Baby Learning** <br> *Xiaodan Liang, Si Liu, Yunchao Wei,Luoqi Liu, Liang Lin, Shuicheng Yan* , (2014)
-- [ ] **How transferable are features in deep neural networks?** <br> *Jason Yosinski, Jeff Clune, Yoshua Bengio, Hod Lipson* [pdf](https://arxiv.org/pdf/1706.02515.pdf) , (2014) 
-- [x] **Overcoming catastrophic forgetting in neural networks** (2016) <br> *Kirkpatrick, Pascanu, Rabinowitz, 
-	Veness, Desjardins, Rusu, Milan, Quan, Ramalho, Grabska-Barwinska, Hassabis, Clopath, Kumaran, Hadsell*  , [pdf](https://arxiv.org/pdf/1612.00796.pdf)
-- [x] **An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks** (2013) <br>
-*Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio* [pdf](https://arxiv.org/pdf/1312.6211)
-- [ ] **Learning without Forgetting** <br> *Zhizhong Li, Derek Hoiem* , (2016)
-- [x] **CORe50: a New Dataset and Benchmark for Continuous Object Recognition** <br> *Vincenzo Lomonaco & Davide Maltoni* , (2017), [pdf](https://128.84.21.199/pdf/1705.03550.pdf)
-- [ ] **Active Long Term Memory Networks** <br> *Tommaso Furlanello, Jiaping Zhao, Andrew M. Saxe, Laurent Itti, and Bosco S. Tjan* , (2016)
-- [ ] **Adaptive Convolutional Neural Network and Its Application in Face Recognition** <br> *Yuanyuan Zhang, Dong Zhao, Jiande Sun, Guofeng Zou, and Wentao L.* , (2016)
-- [ ] **Incremental Robot Learning of New Objects with Fixed Update Time** <br> *Raffaello Camoriano, Giulia Pasquale, Carlo Ciliberto, Lorenzo Natale, Lorenzo Rosasco, and Giorgio Metta*, (2016)
-- [ ] **Encoder Based Lifelong Learning** <br> *Amal Rannen Triki, Rahaf Aljundi, Mathew B. Blaschko, and Tinne Tuytelaars.* , (2017)
-- [ ] **Optimization as a Model for Few-Shot Learning**, *Sachin Ravi, Hugo Larochelle*, (2017), [pdf](https://openreview.net/pdf?id=rJY0-Kcll)
-- [ ] **Deep reinforcement learning from human preferences** <br> ** , (2017), [pdf](https://arxiv.org/pdf/1706.03741), [arXiv](https://arxiv.org/abs/1706.03741), [bib](http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2017arXiv170603741C&data_type=BIBTEX&db_key=PRE&nocookieset=1)
-
-- [ ] **Overcoming Catastrophic Forgetting by Incremental Moment Matching** (2017) <br>
-*Sang-Woo Lee, Jin-Hwa Kim, Jaehyun Jun, Jung-Woo Ha, Byoung-Tak Zhang* [pdf](https://arxiv.org/pdf/1703.08475.pdf)
-
-- [ ] **Gradient Episodic Memory for Continual Learning** (2017) <br>
-*David Lopez-Paz and Marc’Aurelio Ranzato* [pdf](https://arxiv.org/pdf/1706.08840.pdf)
-
-- [ ] **Incremental Learning of Object Detectors without Catastrophic Forgetting** (2017) <br>
-*Konstantin Shmelkov, Cordelia Schmid, Karteek Alahari* [pdf](https://arxiv.org/pdf/1708.06977.pdf)
-
-- [ ] **FearNet: Brain-Inspired Model for Incremental Learning** (2017) <br>
-[openreview](https://openreview.net/forum?id=SJ1Xmf-Rb&noteId=SJ1Xmf-Rb)
-
-- [ ] **Diffusion-based neuromodulation can eliminate catastrophic forgetting in simple neural networks** (2017) <br>
-*Roby Velez, Jeff Clune* [pdf](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0187736&type=printable)
-
-- [ ] **Continual Learning with Deep Generative Replay** (2017) <br>
-*Hanul Shin, Jung Kwon Lee, Jaehong Kim, Jiwon Kim* [pdf](https://arxiv.org/pdf/1705.08690.pdf)
-
-- [ ] **Measuring Catastrophic Forgetting in Neural Networks** (2017) <br>
-*Ronald Kemker, Marc McClure, Angelina Abitino, Tyler Hayes, Christopher Kanan* [pdf](https://arxiv.org/pdf/1708.02072.pdf)
 
 
-*********************************************************************
-### Transfer learning :
-*********************************************************************
-Ravi and Larochelle 17<br>
-Ha et al 17<br>
-li et malik 17<br>
-androchowicz et al 17<br>
-lake et al 11<br>
-edward and sharry 16<br>
-santory et al <br>
-vinyals et al 16
-
-*********************************************************************
-### One/few shot learning :
-*********************************************************************
-- [ ] **Few-Shot Learning Through an Information Retrieval Lens** (2017) <br>
-*Eleni Triantafillou, Richard Zemel, Raquel Urtasun* [pdf](https://arxiv.org/pdf/1707.02610.pdf)
-
-- [x] **Data Augmentation Generative Adversarial Networks** (2017) <br>
-*Antreas Antoniou, Amos Storkey, Harrison Edwards* [pdf](https://arxiv.org/pdf/1711.04340.pdf)
-
-- [ ] **Neural Turing Machines** (2014) <br>
-*Alex Graves, Greg Wayne, Ivo Danihelka*
-
-- [ ] **One-shot Learning with Memory-Augmented Neural Networks** (2016) <br>
-*Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap*
-
-- [x] **Matching Networks for One Shot Learning** (2016) <br>
-*Oriol Vinyals, Charles Blundell, Koray Kavukcuoglu, Timothy Lillicrap, Daan Wierstra*
-
-- [ ] **Few-Shot Learning with Graph Neural Networks** (2017) <br>
-*Victor Garcia, Joan Bruna* [pdf](https://arxiv.org/pdf/1711.04043)
 
 *********************************************************************
 ### Learning on Video :
@@ -200,17 +69,6 @@ vinyals et al 16
 - [ ] **Extracting slow subspaces from natural videos leads to complex cells**
 
 
-*********************************************************************
-### Meta Learning :
-*********************************************************************
-
-- [ ]  **Meta-Learning with Temporal Convolutions** <br> *Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel* (2017) [pdf](https://arxiv.org/pdf/1707.03141) [arXiv](https://arxiv.org/abs/1707.03141)
-
-- [ ] **SMASH: One-Shot Model Architecture Search through HyperNetworks** (2017) <br>
-*Andrew Brock, Theodore Lim, & J.M. Ritchie,Nick Weston* [pdf](https://arxiv.org/pdf/1708.05344.pdf)
-
-- [ ] **Learning Transferable Architectures for Scalable Image Recognition** (2017) <br>
-*Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le* [pdf](https://arxiv.org/pdf/1707.07012) [arXiv](https://arxiv.org/abs/1707.07012)
 
 *********************************************************************
 ### Network Component :
@@ -270,6 +128,7 @@ vinyals et al 16
 *********************************************************************
 ### Reinforcement Learning
 *********************************************************************
+
 
 *********************************************************************
 ### Methodes d'apprentissage et d'optimisation
