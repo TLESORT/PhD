@@ -84,3 +84,6 @@
 
 - [ ] **Adversarial Autoencoders** (2015) <br>
 *Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey* [arXiv](https://arxiv.org/abs/1511.05644)
+
+- [ ] **Data Augmantation Generative Adversarial Networks** (2017) <br>
+*Antreas Antoniou, Amos Storkey, Harrison Edwards* [pdf](https://arxiv.org/pdf/1711.04340.pdf)
