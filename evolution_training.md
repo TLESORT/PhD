@@ -96,7 +96,8 @@
 - [ ] **One-Shot Imitation Learning** (2017) <br>
 *Yan Duan , Marcin Andrychowicz, Bradly Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, Wojciech Zaremba* [pdf](http://papers.nips.cc/paper/6709-one-shot-imitation-learning.pdf)
 
-
+- [ ] **Few-Shot Autoregressive Density Estimation : Towards Learning To Learn Distribution** (2018) <br>
+*S. Reed, Y. Chen, T. Paine, A. van den Oord, S. M. A. Eslami, D. Rezende, O. Vinyals, N. de Freitas* [pdf](https://openreview.net/pdf?id=r1wEFyWCW)
 
 *********************************************************************
 ### Meta Learning :
