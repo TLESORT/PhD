@@ -40,7 +40,7 @@
 - [x] **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** (2016) <br>
 *Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel* [pdf](https://arxiv.org/pdf/1606.03657.pdf)
 
-- [ ] **Wasserstein GAN** (2017) <br>
+- [x] **Wasserstein GAN** (2017) <br>
 *Martin Arjovsky, Soumith Chintala, Léon Bottou* [pdf](https://arxiv.org/pdf/1701.07875)
  
  - [ ] **Least Squares Generative Adversarial Networks (LSGAN)** (2016) <br>
@@ -75,5 +75,8 @@
 
 -  [ ] **RenderGAN : Generating realistic Labeled Data** (2016) <br>
 *Leon Sixt, Benjamin Wild, & Tim Landgraf* [pdf](https://arxiv.org/pdf/1611.01331.pdf)
+
+- [ ] **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**
+*Anh Nguyen, Jeff Clune, Yoshua Bengio, Alexey Dosovitskiy, Jason Yosinski* [pdf](https://arxiv.org/pdf/1612.00005.pdf)
 
 
