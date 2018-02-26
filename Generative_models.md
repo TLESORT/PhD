@@ -73,5 +73,7 @@
  - [ ] **Spectrql Normalization For Generative Adversarial Networks** (2017) <br>
  *Anonymous* [pdf](https://openreview.net/pdf?id=B1QRgziT-)
 
+-  [ ] **RenderGAN : Generating realistic Labeled Data** (2016) <br>
+*Leon Sixt, Benjamin Wild, & Tim Landgraf* [pdf](https://arxiv.org/pdf/1611.01331.pdf)
 
 
