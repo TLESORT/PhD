@@ -12,6 +12,9 @@
  
  - [x] **Improved Variational Inference with Inverse Autoregressive Flow** (2016) <br>
  *Diederik P. Kingma, Tim Salimans, Rafal Jozefowicz, Xi Chen, Ilya Sutskever, Max Welling* [pdf](https://arxiv.org/pdf/1606.04934.pdf)
+ 
+ - [ ] **Variational Memory Addressing in Generative Models** (2017) <br>
+ *Jörg Bornschein Andriy Mnih Daniel Zoran Danilo J. Rezende* [pdf](https://arxiv.org/pdf/1709.07116.pdf)
 
 
 
@@ -87,3 +90,9 @@
 
 - [ ] **Data Augmantation Generative Adversarial Networks** (2017) <br>
 *Antreas Antoniou, Amos Storkey, Harrison Edwards* [pdf](https://arxiv.org/pdf/1711.04340.pdf)
+
+- [ ] **Emotion Classification with Data Augmentation Using Generative Adversarial Networks** (2017) <br>
+*Xinyue Zhu, Yifan Liu, Zengchang Qin, Jiahong Li* [pdf](https://arxiv.org/pdf/1711.00648.pdf)
+
+- [ ] **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium** (2017) <br>
+*Martin Heusel Hubert Ramsauer Thomas Unterthiner Bernhard Nessler Sepp Hochreiter* [pdf](https://arxiv.org/pdf/1706.08500.pdf)
