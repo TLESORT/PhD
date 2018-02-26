@@ -76,7 +76,9 @@
 -  [ ] **RenderGAN : Generating realistic Labeled Data** (2016) <br>
 *Leon Sixt, Benjamin Wild, & Tim Landgraf* [pdf](https://arxiv.org/pdf/1611.01331.pdf)
 
-- [ ] **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**
+- [ ] **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space** (2016)
 *Anh Nguyen, Jeff Clune, Yoshua Bengio, Alexey Dosovitskiy, Jason Yosinski* [pdf](https://arxiv.org/pdf/1612.00005.pdf)
 
+- [ ] **Learning to Compose Domain-Specific Transformations for Data Augmentation** (2017)
+*Alexander J. Ratner, Henry R. Ehrenberg, Zeshan Hussain,Jared Dunnmon, Christopher Ré* [pdf](https://arxiv.org/pdf/1709.01643.pdf)
 
