@@ -61,6 +61,9 @@
 - [ ] **Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence** (2017) <br>
 *Arslan Chaudhry, Puneet K. Dokania, Thalaiyasingam Ajanthan, Philip H. S. Torr* [arXiv](https://arxiv.org/abs/1801.10112) [pdf](https://arxiv.org/pdf/1801.10112)
 
+- [x] **iCaRL: Incremental Classifier and Representation Learning** (2016) <br>
+*Sylvestre-Alvise Rebuffi, Alexander Kolesnikov, Georg Sperl, Christoph H. Lampert* [arXiv](https://arxiv.org/abs/1611.07725) [pdf](https://arxiv.org/pdf/1611.07725)
+
 *********************************************************************
 ### One/few shot learning :
 *********************************************************************
