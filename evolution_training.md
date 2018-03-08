@@ -64,6 +64,13 @@
 - [x] **iCaRL: Incremental Classifier and Representation Learning** (2016) <br>
 *Sylvestre-Alvise Rebuffi, Alexander Kolesnikov, Georg Sperl, Christoph H. Lampert* [arXiv](https://arxiv.org/abs/1611.07725) [pdf](https://arxiv.org/pdf/1611.07725)
 
+- [ ] **Memory-based Parameter Adaptation** (2018) <br>
+*Pablo Sprechmann, Siddhant M. Jayakumar, Jack W. Rae, Alexander Pritzel, Adrià Puigdomènech Badia, Benigno Uria, Oriol Vinyals, Demis Hassabis, Razvan Pascanu, Charles Blundell* [arXiv](https://arxiv.org/abs/1802.10542) [pdf](https://arxiv.org/pdf/1802.10542)
+
+
+- [ ] **Diffusion-based neuromodulation can eliminate catastrophic forgetting in simple neural networks** (2017) <br>
+*Roby Velez, Jeff Clune* [arXiv](https://arxiv.org/abs/1705.07241) [pdf](https://arxiv.org/pdf/1705.07241)
+
 *********************************************************************
 ### One/few shot learning :
 *********************************************************************
