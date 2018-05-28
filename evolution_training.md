@@ -105,6 +105,9 @@
 - [ ] **Few-Shot Autoregressive Density Estimation : Towards Learning To Learn Distribution** (2018) <br>
 *S. Reed, Y. Chen, T. Paine, A. van den Oord, S. M. A. Eslami, D. Rezende, O. Vinyals, N. de Freitas* [pdf](https://openreview.net/pdf?id=r1wEFyWCW)
 
+- [ ] **Decision-Theoretic Meta-Learning: Versatile and Efficient Amortization of Few-Shot Learning** (2018) <br>
+*Jonathan Gordon, John Bronskill, Matthias Bauer, Sebastian Nowozin, Richard E. Turner* [pdf](https://arxiv.org/pdf/1805.09921.pdf)
+
 *********************************************************************
 ### Meta Learning :
 *********************************************************************
